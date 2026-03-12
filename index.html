@@ -308,4 +308,45 @@
   }
   setInterval(fall, 600);
 </script>
-<style> @keyframes f { to { transform: translateY(110vh) rotate(360deg); } } </style></div></div>
+  <div class="livechat-float">
+    <a href="https://wa.me/628XXXXXXXXXX" target="_blank">
+        <img src="https://i.ibb.co/vzYvY3j/livechat-icon.png" alt="Livechat">
+    </a>
+</div> 
+
+<div class="livechat-float">
+    <a href="https://direct.lc.chat/15115221/" target="_blank">
+        <img src="https://i.imgur.com/pUJGeZj.gif" alt="Livechat">
+    </a>
+<style>
+.livechat-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999999;
+    width: 100px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.livechat-float img {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0px 0px 15px rgba(255, 0, 0, 0.8));
+}
+.livechat-float:hover {
+    transform: scale(1.1);
+}
+@media (max-width: 768px) {
+    .livechat-float {
+        width: 75px;
+        bottom: 15px;
+        right: 15px;
+    }
+}
+</style>
+
+<style> 
+@keyframes f { to { transform: translateY(110vh) rotate(360deg); } } 
+</style>
+</div>
+</div>
