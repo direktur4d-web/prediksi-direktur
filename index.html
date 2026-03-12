@@ -1,0 +1,290 @@
+<style>
+  /* 1. CONTAINER UTAMA */
+  .main-container-toto {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('https://imgur.com/XtIocH1.png');
+    background-size: cover; background-position: center; background-attachment: fixed;
+    padding: 20px 10px; font-family: 'Segoe UI', sans-serif; min-height: 100vh; border-radius: 15px;
+    position: relative; overflow: hidden; color: #fff;
+  }
+
+  /* 2. JAM LIVE TOGEL (DIPERBAIKI) */
+  .jam-live-box { text-align: center; margin: 20px 0; width: 100%; }
+  .jam-title { color: #ffcc00; font-weight: bold; font-size: 14px; text-transform: uppercase; margin-bottom: 8px; display: block; }
+  .jam-display {
+    background: rgba(0,0,0,0.9); color: #ffcc00; border: 2px solid #ffcc00;
+    padding: 8px 25px; border-radius: 12px; font-size: 24px; font-weight: 900;
+    display: inline-block; box-shadow: 0 0 15px rgba(255, 204, 0, 0.5);
+  }
+
+  /* 3. CAPSULE SLIDER (SESUAI GAMBAR TARGET) */
+  /* CONTAINER LUAR UNTUK EFEK GARIS */
+  /* CONTAINER UTAMA SLIDER */
+  .slider-container-wrapper {
+    display: flex; align-items: center; justify-content: center;
+    max-width: 1000px; margin: 30px auto; gap: 10px; position: relative;
+  }
+
+  /* KAPSUL DENGAN EFEK GARIS JALAN + BISA DI-SCROLL */
+  .capsule-nav {
+    display: flex; overflow-x: auto; scroll-behavior: smooth;
+    padding: 12px 20px; gap: 10px; scrollbar-width: none; width: 100%; align-items: center;
+    position: relative; border-radius: 60px;
+    background: #000;
+    z-index: 1;
+    /* KUNCI UTAMA: Border pakai Image agar tidak menghalangi scroll */
+    border: 2px solid transparent;
+    background-image: linear-gradient(#000, #000), 
+                      conic-gradient(from var(--angle), transparent 20%, #ffcc00 50%, transparent 80%);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    animation: premiumRotate 3s linear infinite;
+  }
+
+  /* ANIMASI ROTASI GARIS */
+  @property --angle {
+    syntax: '<angle>';
+    initial-value: 0deg;
+    inherits: false;
+  }
+
+  @keyframes premiumRotate {
+    to { --angle: 360deg; }
+  }
+
+  /* SUPAYA SCROLL TETAP LANCAR DI HP */
+  .capsule-nav::-webkit-scrollbar { display: none; }
+  .btn-bulan { flex: 0 0 auto; z-index: 10; }
+
+  @keyframes rotateBorder {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .btn-bulan {
+    flex: 0 0 auto; background: transparent; color: #ffffff; border: none;
+    padding: 12px 25px; cursor: pointer; font-weight: bold;
+    border-radius: 50px; transition: 0.3s; text-transform: uppercase; font-size: 13px;
+    line-height: 1.2; text-align: center;
+  }
+  .btn-bulan.active {
+    background: linear-gradient(#ffcc00, #d4a017); color: #000;
+    box-shadow: 0 0 20px #ffcc00;
+  }
+  .btn-bulan.coming { opacity: 0.3; cursor: default; font-size: 10px; color: #ccc; }
+
+  .arrow-nav {
+    background: #ffcc00; color: #000; border: none;
+    width: 40px; height: 40px; border-radius: 50%;
+    cursor: pointer; font-weight: bold; font-size: 20px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 0 10px #ffcc00; flex-shrink: 0;
+  }
+
+  /* 4. GRID KARTU (4 KOLOM) */
+  .tanggal-header {
+    max-width: 1100px; margin: 30px auto 15px; color: #ffcc00;
+    font-weight: bold; border-bottom: 2px solid #ffcc00; padding-bottom: 8px; font-size: 18px;
+  }
+  .grid-toto {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;
+    max-width: 1100px; margin: 0 auto 50px;
+  }
+  .card-toto {
+    background: rgba(15, 15, 25, 0.95); border-radius: 20px; overflow: hidden;
+    border: 1px solid #333; transition: 0.3s; display: flex; flex-direction: column;
+  }
+  .card-toto:hover { border-color: #ffcc00; transform: translateY(-5px); }
+  .card-label {
+    background: linear-gradient(90deg, #d4a017, #ffcc00, #d4a017);
+    color: #000; padding: 12px; text-align: center; font-weight: 800; font-size: 13px;
+  }
+  .card-toto img { width: 100%; cursor: pointer; }
+  .card-footer { padding: 15px; text-align: center; background: #0a0a0a; margin-top: auto; }
+
+  .btn-link {
+    background: linear-gradient(#ffcc00, #d4a017); color: #000 !important;
+    padding: 10px 20px; border-radius: 30px; text-decoration: none !important;
+    font-size: 12px; font-weight: 900; display: inline-block; position: relative; overflow: hidden;
+  }
+  .btn-link::after {
+    content: ''; position: absolute; top: -50%; left: -60%; width: 20%; height: 200%;
+    background: rgba(255, 255, 255, 0.5); transform: rotate(30deg); animation: shine 3s infinite;
+  }
+  @keyframes shine { 0% { left: -60%; } 20%, 100% { left: 120%; } }
+
+  /* RESPONSIVE */
+  @media (max-width: 992px) { .grid-toto { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
+  #report-abuse, .navbar { display: none !important; }
+</style>
+
+<div class="main-container-toto">
+  <div style="margin-bottom: 20px; text-align: center;">
+    <a href="https://bio.site/Direktur4D_Official" target="_blank">
+      <img src="https://imgur.com/1Ai8pJO.png" style="max-width: 280px;" />
+    </a>
+  </div>
+
+  <div class="jam-live-box">
+    <span class="jam-title">JAM LIVE TOGEL</span>
+    <div class="jam-display" id="clock">00:00:00</div>
+  </div>
+  
+  <div style="background: rgb(0, 0, 0); border-bottom: 2px solid rgb(255, 204, 0); border-top: 2px solid rgb(255, 204, 0); margin-bottom: 20px; overflow: hidden; padding: 12px 0px;">
+    <marquee scrollamount="7" style="color: white; font-family: &quot;Arial Black&quot;; font-weight: bold;">
+      <span style="color: #f1c40f;">⚡ SELAMAT DATANG DI DIREKTUR4D : AGEN TOGEL HADIAH TERBESAR ⚡</span> | PASARAN TERLENGKAP | DEPO WD TERCEPAT! | BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡
+    </marquee>
+</div>
+
+  <div class="slider-container-wrapper">
+    <button class="arrow-nav" onclick="moveNav(-200)">❮</button>
+    <div class="capsule-nav" id="capsuleNav">
+      <button class="btn-bulan coming">Januari<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Februari<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan active" onclick="tabKe('maret', this)">Maret</button>
+      <button class="btn-bulan coming">April<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Mei<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Juni<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Juli<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Agustus<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Sept<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Okt<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Nov<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Des<br /><span>Coming Soon</span></button>
+    </div>
+    <button class="arrow-nav" onclick="moveNav(200)">❯</button>
+  </div>
+  
+  
+<div class="tab-isi" id="maret">
+  
+  <div class="tanggal-header"> 🔥UPDATE: 12 MARET 2026 </div>
+<div class="grid-toto">
+  
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 12 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/iYXsmkL.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 12 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/iJGu8pL.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 12 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/izFOrri.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 12 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/3cT0E71.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  </div>
+  
+  <div class="tanggal-header"> 🔥UPDATE: 11 MARET 2026 </div>
+<div class="grid-toto">
+  
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 11 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/B6NbXUT.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 11 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/DRuhami.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 11 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/CQYrTDY.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 11 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/4eAt9VW.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  </div>
+  
+    <div class="tanggal-header"> 🔥UPDATE: 10 MARET 2026 </div>
+<div class="grid-toto">
+  
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 10 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/fkseoq6.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+  
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 10 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/Kd4JqIn.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+
+  
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 10 MAR</div>
+    <img onclick="window.open('https://bio.site/Direktur4D_Official')" src="https://imgur.com/QBc9nS9.png" />
+    <div class="card-footer">
+      <a class="btn-link" href="https://bio.site/Direktur4D_Official" target="_blank">📌 DAFTAR / LOGIN</a>
+    </div>
+  </div>
+
+
+    </div>
+<script>
+  function moveNav(px) { document.getElementById('capsuleNav').scrollLeft += px; }
+  function tabKe(id, btn) {
+    document.querySelectorAll('.tab-isi').forEach(t => t.style.display = 'none');
+    document.getElementById(id).style.display = 'block';
+    document.querySelectorAll('.btn-bulan').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+  function updateClock() {
+    const n = new Date();
+    document.getElementById('clock').textContent = 
+      String(n.getHours()).padStart(2,'0') + ":" + 
+      String(n.getMinutes()).padStart(2,'0') + ":" + 
+      String(n.getSeconds()).padStart(2,'0');
+  }
+  setInterval(updateClock, 1000); updateClock();
+
+  // Efek Angpao Jatuh
+  const imlekImgs = ['https://imgur.com/ojaFMVa.png', 'https://imgur.com/v0EJN0d.png', 'https://imgur.com/i1ZVh9M.png'];
+  function fall() {
+    const img = document.createElement('img');
+    img.src = imlekImgs[Math.floor(Math.random()*imlekImgs.length)];
+    img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; width:35px; z-index:1; pointer-events:none; animation:f 5s linear;`;
+    document.body.appendChild(img);
+    setTimeout(() => img.remove(), 5000);
+  }
+  setInterval(fall, 600);
+</script>
+<style> @keyframes f { to { transform: translateY(110vh) rotate(360deg); } } </style></div></div>
