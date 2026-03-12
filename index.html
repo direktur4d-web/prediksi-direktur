@@ -308,6 +308,16 @@
     setTimeout(() => img.remove(), 5000);
   }
   setInterval(fall, 600);
+  // Kode otomatis geser ke bulan Maret saat loading
+window.addEventListener('load', () => {
+    const nav = document.getElementById('capsuleNav');
+    const activeBtn = document.querySelector('.btn-bulan.active');
+    if (activeBtn) {
+        // Menghitung posisi agar tombol active berada di tengah layar
+        const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
+        nav.scrollLeft = offset;
+    }
+});
 </script>
   <div class="livechat-float">
     <a href="https://direct.lc.chat/15115221/" target="_blank">
