@@ -355,25 +355,24 @@ window.addEventListener('load', () => {
 .livechat-float {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 60px; 
     z-index: 999999;
-    width: 100px;
+    width: 120px; /
     transition: all 0.3s ease;
     cursor: pointer;
 }
+
 .livechat-float img {
-    width: 100%;
+    width: 100%; 
     height: auto;
     filter: drop-shadow(0px 0px 15px rgba(255, 0, 0, 0.8));
 }
-.livechat-float:hover {
-    transform: scale(1.1);
-}
+
 @media (max-width: 768px) {
     .livechat-float {
-        width: 75px;
+        width: 100px; 
         bottom: 15px;
-        right: 15px;
+        right: 45px;  
     }
 }
 </style>
