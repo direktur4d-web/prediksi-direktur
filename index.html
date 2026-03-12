@@ -355,9 +355,9 @@ window.addEventListener('load', () => {
 .livechat-float {
     position: fixed;
     bottom: 20px;
-    right: 60px; 
+    right: 25px; /* Angka sakti biar pas di pojok tapi nggak nabrak */
     z-index: 999999;
-    width: 120px; /
+    width: 110px; /* Ukuran pas untuk Desktop */
     transition: all 0.3s ease;
     cursor: pointer;
 }
@@ -370,9 +370,9 @@ window.addEventListener('load', () => {
 
 @media (max-width: 768px) {
     .livechat-float {
-        width: 100px; 
+        width: 85px;  /* Ukuran pas untuk layar HP */
         bottom: 15px;
-        right: 45px;  
+        right: 20px;  /* Jarak kanan untuk HP biar rapi */
     }
 }
 </style>
