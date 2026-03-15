@@ -146,14 +146,14 @@
     </a>
   </div>
 
-  <div class="jam-live-box">
-    <span class="jam-title">PREDIKSI JITU DIREKTUR4D</span>
+  <div class="jam-live-box" style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
+    <span class="rainbow-text">PREDIKSI JITU DIREKTUR4D</span>
     <div class="jam-display" id="clock">00:00:00</div>
 </div>
   
-  <div style="background: rgb(0, 0, 0); border-bottom: 2px solid rgb(255, 204, 0); border-top: 2px solid rgb(255, 204, 0); margin-bottom: 20px; overflow: hidden; padding: 12px 0px;">
-    <marquee scrollamount="7" style="color: white; font-family: &quot;Arial Black&quot;; font-weight: bold;">
-      <span style="color: #f1c40f;">⚡ SELAMAT DATANG DI DIREKTUR4D : PUSAT INFORMASI DAN PREDIKSI TERAKURAT ⚡</span> | PASARAN TERLENGKAP | DEPO WD TERCEPAT! | BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡
+  <div style="background: rgb(0, 0, 0); border-bottom: 2px solid rgb(255, 204, 0); border-top: 2px solid rgb(255, 204, 0); margin-bottom: 20px; overflow: hidden; padding: 12px 0px; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+    <marquee scrollamount="7" style="color: white; font-family: 'Arial Black'; font-weight: bold;">
+        <span style="color: #f1c40f;">⚡ SELAMAT DATANG DI DIREKTUR4D : PUSAT INFORMASI DAN PREDIKSI TERAKURAT ⚡</span> | PASARAN TERLENGKAP | DEPO WD TERCEPAT! | BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡
     </marquee>
 </div>
 
@@ -450,6 +450,46 @@ window.addEventListener('load', () => {
         right: 20px;  
     }
 }
+ /* ✨ ANIMASI ALIRAN MERAH EMAS MURNI ✨ */
+  @keyframes red-gold-only {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 200% 50%; }
+  }
+
+  .rainbow-text {
+    font-size: 5.8vw; 
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: block;
+    white-space: nowrap;
+    font-family: 'Arial Black', sans-serif;
+    
+    /* Warna: Merah - Emas - Merah - Emas - Merah */
+    background: linear-gradient(90deg, 
+      #ff0000 0%, 
+      #ffd700 25%, 
+      #ff0000 50%, 
+      #ffd700 75%, 
+      #ff0000 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    /* Jalannya dibuat sedang (2.5 detik) biar warnanya kontras */
+    animation: red-gold-only 2.5s linear infinite;
+    
+    /* Bayangan hitam tebal biar tulisan makin timbul */
+    filter: drop-shadow(2px 2px 2px rgba(0,0,0,1));
+    letter-spacing: 0.5px;
+  }
+
+  @media (min-width: 768px) {
+    .rainbow-text {
+      font-size: 30px; 
+    }
+  }
 </style>
 
 <style> 
