@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://direktur4d.it.com/sitemap.xml
