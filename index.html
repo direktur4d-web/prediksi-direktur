@@ -144,12 +144,102 @@
   /* RESPONSIVE */
   @media (max-width: 992px) { .grid-toto { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
   #report-abuse, .navbar { display: none !important; }
+  /* CSS TOMBOL VIP DENGAN KILAU & DENYUT */
+  .container-tombol-vip {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px auto;
+    max-width: 1100px;
+    padding: 0 15px;
+  }
+
+  .btn-vip {
+    flex: 1;
+    max-width: 220px;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 12px;
+    font-family: 'Arial Black', sans-serif;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Warna Emas (Daftar) + Efek Denyut */
+  .btn-daftar-baru {
+    background: linear-gradient(#ffcc00, #d4a017);
+    color: #000 !important;
+    box-shadow: 0 0 20px rgba(255, 204, 0, 0.6);
+    animation: denyut-emas 2s infinite; /* Efek Denyut */
+  }
+
+  /* Warna Merah (Login) + Efek Denyut */
+  .btn-login-baru {
+    background: linear-gradient(#ff0000, #8b0000);
+    color: #fff !important;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.6);
+    animation: denyut-merah 2s infinite; /* Efek Denyut */
+    border: 1px solid #ff4444;
+  }
+
+  /* Efek Kilau (Shine) Bergerak */
+  .btn-vip::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -100%;
+    width: 50%;
+    height: 200%;
+    background: rgba(255, 255, 255, 0.6);
+    transform: rotate(30deg);
+    animation: kilau-lewat 3s infinite; /* Efek Kilau */
+  }
+
+  /* DEFINISI ANIMASI */
+  @keyframes kilau-lewat {
+    0% { left: -100%; }
+    20% { left: 150%; }
+    100% { left: 150%; }
+  }
+
+  @keyframes denyut-emas {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 204, 0, 0.7); }
+    70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(255, 204, 0, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 204, 0, 0); }
+  }
+
+  @keyframes denyut-merah {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7); }
+    70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(255, 0, 0, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 0, 0, 0); }
+  }
+
+  .btn-vip:hover {
+    filter: brightness(1.3);
+    transform: translateY(-3px);
+  }
 </style>
 
 <div class="main-container-toto">
   <div style="margin-bottom: 20px; text-align: center;">
     <a href="https://bio.site/Direktur4D_Official" target="_blank">
       <img src="https://i.imgur.com/T6xb9ux.gif" style="max-width: 280px;" />
+    </a>
+  </div>
+  <div class="container-tombol-vip">
+    <a href="https://bio.site/Direktur4D_Official" target="_blank" class="btn-vip btn-daftar-baru">
+       🚀 DAFTAR 
+    </a>
+    <a href="https://bio.site/Direktur4D_Official" target="_blank" class="btn-vip btn-login-baru">
+       🔑 LOGIN 
     </a>
   </div>
 
