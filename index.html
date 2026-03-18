@@ -646,10 +646,18 @@ window.addEventListener('load', () => {
     white-space: nowrap;
     font-family: 'Arial Black', sans-serif;
     line-height: 1.2;
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    background: linear-gradient(to right, #FFD700, #FF0000, #FFD700);
+    background-size: 200% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent;
+    animation: shine 3s linear infinite;
+}
+
+@keyframes shine {
+    to {
+        background-position: 200% center;
+    }
 }
     
     
