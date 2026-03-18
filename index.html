@@ -20,7 +20,7 @@
     background-color: #000; 
     overflow-x: hidden;
   }
-  /* 1. CONTAINER UTAMA */
+  
   .main-container-toto {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('https://imgur.com/XtIocH1.png');
     background-size: cover; 
@@ -36,7 +36,7 @@
     margin: 0; 
   }
 
-  /* 2. JAM LIVE TOGEL (DIPERBAIKI) */
+  
   .jam-live-box { text-align: center; margin: 20px 0; width: 100%; }
   .jam-title { color: #ffcc00; font-weight: bold; font-size: 14px; text-transform: uppercase; margin-bottom: 8px; display: block; }
   .jam-display {
@@ -45,22 +45,20 @@
     display: inline-block; box-shadow: 0 0 15px rgba(255, 204, 0, 0.5);
   }
 
-  /* 3. CAPSULE SLIDER (SESUAI GAMBAR TARGET) */
-  /* CONTAINER LUAR UNTUK EFEK GARIS */
-  /* CONTAINER UTAMA SLIDER */
+  
   .slider-container-wrapper {
     display: flex; align-items: center; justify-content: center;
     max-width: 1000px; margin: 30px auto; gap: 10px; position: relative;
   }
 
-  /* KAPSUL DENGAN EFEK GARIS JALAN + BISA DI-SCROLL */
+  
   .capsule-nav {
     display: flex; overflow-x: auto; scroll-behavior: smooth;
     padding: 12px 20px; gap: 10px; scrollbar-width: none; width: 100%; align-items: center;
     position: relative; border-radius: 60px;
     background: #000;
     z-index: 1;
-    /* KUNCI UTAMA: Border pakai Image agar tidak menghalangi scroll */
+    
     border: 2px solid transparent;
     background-image: linear-gradient(#000, #000), 
                       conic-gradient(from var(--angle), transparent 20%, #ffcc00 50%, transparent 80%);
@@ -69,7 +67,7 @@
     animation: premiumRotate 3s linear infinite;
   }
 
-  /* ANIMASI ROTASI GARIS */
+  
   @property --angle {
     syntax: '<angle>';
     initial-value: 0deg;
@@ -80,7 +78,7 @@
     to { --angle: 360deg; }
   }
 
-  /* SUPAYA SCROLL TETAP LANCAR DI HP */
+  
   .capsule-nav::-webkit-scrollbar { display: none; }
   .btn-bulan { flex: 0 0 auto; z-index: 10; }
 
@@ -141,7 +139,7 @@
   }
   @keyframes shine { 0% { left: -60%; } 20%, 100% { left: 120%; } }
 
-  /* RESPONSIVE */
+  
   @media (max-width: 992px) { .grid-toto { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
   #report-abuse, .navbar { display: none !important; }
   .container-tombol-vip {
@@ -225,15 +223,67 @@
   </div>
 
   <div class="jam-live-box" style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
-    <h1 class="rainbow-text">PREDIKSI JITU DIREKTUR4D</h1>
+    <h1 class="rainbow-text">DIREKTUR4D | Prediksi Jitu & Link Resmi Terpercaya</h1>
     <div class="jam-display" id="clock">00:00:00</div>
 </div>
   
-  <div style="background: rgb(0, 0, 0); border-bottom: 2px solid rgb(255, 204, 0); border-top: 2px solid rgb(255, 204, 0); margin-bottom: 20px; overflow: hidden; padding: 12px 0px; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
-    <marquee scrollamount="7" style="color: white; font-family: 'Arial Black'; font-weight: bold;">
-        <span style="color: #f1c40f;">⚡ SELAMAT DATANG DI DIREKTUR4D : PUSAT INFORMASI DAN PREDIKSI TERAKURAT ⚡</span> | PASARAN TERLENGKAP | DEPO WD TERCEPAT! | BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡
-    </marquee>
+  <div class="marquee-nonstop-container">
+    <div class="marquee-nonstop-content">
+        <span>⚡ SELAMAT DATANG DI DIREKTUR4D : PUSAT INFORMASI DAN PREDIKSI TERAKURAT ⚡</span>
+        <span class="divider"> | </span>
+        <span>PASARAN TERLENGKAP</span>
+        <span class="divider"> | </span>
+        <span>DEPO WD TERCEPAT!</span>
+        <span class="divider"> | </span>
+        <span>BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡</span>
+    </div>
 </div>
+
+<style>
+.marquee-nonstop-container {
+    background: #000 !important;
+    border-top: 2px solid #ffcc00 !important;
+    border-bottom: 2px solid #ffcc00 !important;
+    
+    
+    width: 100vw !important;
+    position: relative !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    
+    
+    z-index: 999999999 !important; 
+    
+    padding: 12px 0 !important;
+    margin: 20px 0 !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    pointer-events: none !important; 
+    box-shadow: 0 0 25px rgba(255, 204, 0, 0.7) !important;
+}
+
+.marquee-nonstop-content {
+    display: inline-block !important;
+    padding-left: 100% !important;
+    animation: gerak-abadi 20s linear infinite !important;
+    font-family: 'Arial Black', sans-serif !important;
+    font-weight: bold !important;
+    color: #ffffff !important; 
+    font-size: 14px !important;
+    text-transform: uppercase !important;
+    text-shadow: 0 0 5px rgba(255, 204, 0, 0.8); 
+}
+
+
+.highlight-emas {
+    color: #ffcc00 !important;
+}
+
+@keyframes gerak-abadi {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+</style>
 
   <div class="slider-container-wrapper">
     <button class="arrow-nav" onclick="moveNav(-200)">❮</button>
@@ -586,17 +636,18 @@
   function fall() {
     const img = document.createElement('img');
     img.src = imlekImgs[Math.floor(Math.random()*imlekImgs.length)];
-    img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; width:35px; z-index:1; pointer-events:none; animation:f 5s linear;`;
+    
+img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; width:35px; z-index:1; pointer-events:none; animation:f 5s linear;`;
     document.body.appendChild(img);
     setTimeout(() => img.remove(), 5000);
   }
   setInterval(fall, 600);
-  // Kode otomatis geser ke bulan Maret saat loading
+  
 window.addEventListener('load', () => {
     const nav = document.getElementById('capsuleNav');
     const activeBtn = document.querySelector('.btn-bulan.active');
     if (activeBtn) {
-        // Menghitung posisi agar tombol active berada di tengah layar
+        
         const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
         nav.scrollLeft = offset;
     }
@@ -606,126 +657,83 @@ window.addEventListener('load', () => {
     <a href="https://direct.lc.chat/15115221/" target="_blank">
         <img src="https://i.imgur.com/pUJGeZj.gif" alt="Livechat">
     </a>
+  </div>
+
+  <div class="footer-custom">
+    <div class="footer-overlay"></div>
+    <div class="footer-content">
+        <h2>DIREKTUR4D: Prediksi Togel Terpercaya & Jitu</h2>
+        <p><strong style="color: #ffcc00;">Direktur4D</strong> adalah situs informasi prediksi togel harian untuk pasaran besar seperti Macau, Sydney, Singapore, dan Hongkong. Kami memberikan bocoran angka main yang diracik khusus untuk membantu para pemain mendapatkan referensi angka jitu setiap harinya.</p>
+        <p>Dapatkan update prediksi terbaru dan tercepat hanya di <strong style="color: #ffcc00;">Direktur4D</strong>. Semua data yang kami sajikan bersifat informatif dan diperbarui secara berkala sesuai dengan jadwal pasaran togel resmi.</p>
+        <div class="copyright">&copy; 2026 Direktur4D | Pusat Prediksi Togel Indonesia</div>
+    </div>
+  </div>
+
 <style>
+
 .livechat-float {
-    position: fixed;
+    position: fixed !important;
     bottom: 20px;
     right: 25px; 
-    z-index: 999999;
+    z-index: 999999 !important;
     width: 110px; 
     transition: all 0.3s ease;
     cursor: pointer;
 }
-
 .livechat-float img {
     width: 100%; 
     height: auto;
     filter: drop-shadow(0px 0px 15px rgba(255, 0, 0, 0.8));
 }
 
-@media (max-width: 768px) {
-    .livechat-float {
-        width: 85px;  
-        bottom: 15px;
-        right: 20px;  
-    }
-}
- /* ✨ ANIMASI ALIRAN MERAH EMAS MURNI ✨ */
-  @keyframes red-gold-only {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 200% 50%; }
-  }
 
-  /* 1. JINAKKAN H1 (BIAR SEO BAGUS TAPI TAMPILAN TETEP RAPI) */
-h1.rainbow-text {
-    font-size: 24px !important; /* Ukuran pas, gak raksasa */
-    font-weight: 900;
-    margin: 5px 0 !important;
-    padding: 0 !important;
-    display: block !important;
+.footer-custom {
+    margin-top: 50px;
+    background: url('https://imgur.com/k1vXLeL.jpg') no-repeat center center;
+    background-size: cover;
+    border-top: 2px solid #ffcc00;
+    width: 100%;
+    padding: 60px 0;
     text-align: center;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+.footer-overlay {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1;
+}
+.footer-content {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+    z-index: 2;
+    font-size: 13px;
+    line-height: 1.8;
+}
+.footer-content h2 { color: #ffcc00; font-size: 20px; margin-bottom: 10px; }
+.copyright { margin-top: 25px; color: #aaa; font-size: 11px; }
+
+
+h1.rainbow-text {
+    font-size: 24px;
+    font-weight: 900;
     background: linear-gradient(to right, #FFD700, #FF0000, #FFD700);
     background-size: 200% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: kilauEmas 3s linear infinite !important;
+    animation: kilauEmas 3s linear infinite;
 }
+@keyframes kilauEmas { to { background-position: 200% center; } }
+@keyframes f { to { transform: translateY(110vh) rotate(360deg); } }
 
-/* 2. KHUSUS TEKS JALAN (BIAR MELUNCUR LAGI) */
-span.rainbow-text {
-    font-size: 14px !important; 
-    display: inline !important; /* WAJIB INLINE BIAR BISA JALAN */
-    background: none !important; /* Hapus gradasi biar enteng pas jalan */
-    color: #FFD700 !important; /* Warna emas solid biar jelas */
-    -webkit-text-fill-color: initial !important;
-    animation: none !important; /* MATIKAN ANIMASI BIAR GAK STUCK */
+@media (max-width: 768px) {
+    .livechat-float { width: 85px; bottom: 15px; right: 15px; }
+    h1.rainbow-text { font-size: 20px; }
 }
-
-@keyframes kilauEmas {
-    to { background-position: 200% center; }
-}
-
-@keyframes kilauEmas {
-    to { background-position: 200% center; }
-}
-@keyframes shine {
-    to {
-        background-position: 200% center;
-    }
-}
-
-.rainbow-text {
-    font-weight: bold;
-    color: #FFD700;
-    text-transform: uppercase;
-}
-    
-    
-    background: linear-gradient(90deg, 
-      #ff0000 0%, 
-      #ffd700 25%, 
-      #ff0000 50%, 
-      #ffd700 75%, 
-      #ff0000 100%
-    );
-    background-size: 200% auto;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    
-    
-    animation: red-gold-only 2.5s linear infinite;
-    
-    
-    filter: drop-shadow(2px 2px 2px rgba(0,0,0,1));
-    letter-spacing: 0.5px;
-  }
-
-  @media (min-width: 768px) {
-    .rainbow-text {
-      font-size: 30px; 
-    }
-  }
 </style>
-
-<style> 
-@keyframes f { to { transform: translateY(110vh) rotate(360deg); } } 
-</style>
-</div>
-</div>
-<div style="margin-top: 50px; background: url('https://imgur.com/k1vXLeL.jpg') no-repeat center center; background-size: cover; border-top: 2px solid #ffcc00; width: 100vw; margin-left: calc(50% - 50vw); padding: 60px 0 150px 0; text-align: center; color: #fff; font-size: 13px; line-height: 1.8; overflow: hidden; margin-bottom: -150px; position: relative;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.75);"></div>
-    
-    <div style="position: relative; max-width: 600px; margin: 0 auto; padding: 0 20px; z-index: 1;">
-        <h2 style="color: #ffcc00; font-size: 20px; margin-bottom: 10px; text-shadow: 2px 2px 4px #000;">DIREKTUR4D: Prediksi Togel Terpercaya & Jitu</h2>
-        <p style="margin-bottom: 15px; text-shadow: 1px 1px 2px #000;">
-            <strong style="color: #ffcc00;">Direktur4D</strong> adalah situs informasi prediksi togel harian untuk pasaran besar seperti Macau, Sydney, Singapore, dan Hongkong. Kami memberikan bocoran angka main yang diracik khusus untuk membantu para pemain mendapatkan referensi angka jitu setiap harinya.
-        </p>
-        <p style="text-shadow: 1px 1px 2px #000;">
-            Dapatkan update prediksi terbaru dan tercepat hanya di <strong style="color: #ffcc00;">Direktur4D</strong>. Semua data yang kami sajikan bersifat informatif dan diperbarui secara berkala sesuai dengan jadwal pasaran togel resmi.
-        </p>
-        <div style="margin-top: 25px; color: #aaa; font-size: 11px;">
-            &copy; 2026 Direktur4D | Pusat Prediksi Togel Indonesia
-        </div>
-    </div>
-</div>
- </html>
+</body>
+</html>
