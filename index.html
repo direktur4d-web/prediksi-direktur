@@ -637,15 +637,18 @@ window.addEventListener('load', () => {
   }
 
   .rainbow-text {
-    font-size: 5.8vw; 
+    font-size: 5.8vw;
     font-weight: 900;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    margin: 0; 
+    margin-bottom: 10px; 
     display: block;
     white-space: nowrap;
     font-family: 'Arial Black', sans-serif;
+    line-height: 1.2; 
+}
     
-    /* Warna: Merah - Emas - Merah - Emas - Merah */
+    
     background: linear-gradient(90deg, 
       #ff0000 0%, 
       #ffd700 25%, 
@@ -657,10 +660,10 @@ window.addEventListener('load', () => {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     
-    /* Jalannya dibuat sedang (2.5 detik) biar warnanya kontras */
+    
     animation: red-gold-only 2.5s linear infinite;
     
-    /* Bayangan hitam tebal biar tulisan makin timbul */
+    
     filter: drop-shadow(2px 2px 2px rgba(0,0,0,1));
     letter-spacing: 0.5px;
   }
