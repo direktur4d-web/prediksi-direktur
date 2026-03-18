@@ -636,24 +636,38 @@ window.addEventListener('load', () => {
     100% { background-position: 200% 50%; }
   }
 
-  h1 {
-    font-size: 5.8vw;
+  /* 1. JINAKKAN H1 (BIAR SEO BAGUS TAPI TAMPILAN TETEP RAPI) */
+h1.rainbow-text {
+    font-size: 24px !important; /* Ukuran pas, gak raksasa */
     font-weight: 900;
-    text-transform: uppercase;
-    margin: 0;
-    margin-bottom: 10px;
-    display: block;
-    white-space: nowrap;
-    font-family: 'Arial Black', sans-serif;
-    line-height: 1.2;
+    margin: 5px 0 !important;
+    padding: 0 !important;
+    display: block !important;
+    text-align: center;
     background: linear-gradient(to right, #FFD700, #FF0000, #FFD700);
     background-size: 200% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    color: transparent;
-    animation: shine 3s linear infinite;
+    animation: kilauEmas 3s linear infinite !important;
 }
 
+/* 2. KHUSUS TEKS JALAN (BIAR MELUNCUR LAGI) */
+span.rainbow-text {
+    font-size: 14px !important; 
+    display: inline !important; /* WAJIB INLINE BIAR BISA JALAN */
+    background: none !important; /* Hapus gradasi biar enteng pas jalan */
+    color: #FFD700 !important; /* Warna emas solid biar jelas */
+    -webkit-text-fill-color: initial !important;
+    animation: none !important; /* MATIKAN ANIMASI BIAR GAK STUCK */
+}
+
+@keyframes kilauEmas {
+    to { background-position: 200% center; }
+}
+
+@keyframes kilauEmas {
+    to { background-position: 200% center; }
+}
 @keyframes shine {
     to {
         background-position: 200% center;
