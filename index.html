@@ -952,18 +952,24 @@ h1.rainbow-text {
     animation: lightning-flash 6s infinite; 
   }
   .bolt-line { 
-    position: fixed; top: 0; left: 50%; width: 2px; height: 100%; 
-    background: #fff; opacity: 0; z-index: 9999; 
-    box-shadow: 0 0 20px #fff, 0 0 40px #00f; 
+    position: fixed; 
+    top: 0; 
+    left: 50%; 
+    width: 2px; 
+    height: 100%; 
+    background: #ff0000; 
+    opacity: 0; 
+    z-index: 9999; 
+    box-shadow: 0 0 20px #ff0000, 0 0 40px #4a0000; 
     animation: bolt-strike 6s infinite; 
-  }
-  @keyframes lightning-flash { 
+}
+@keyframes lightning-flash { 
     0%, 94%, 100% { background: rgba(255, 255, 255, 0); } 
-    95% { background: rgba(255, 255, 255, 0.4); } 
+    95% { background: rgba(255, 0, 0, 0.3); } /* Kilatan layar jadi kemerahan */
     96% { background: rgba(255, 255, 255, 0); } 
-    97% { background: rgba(135, 206, 250, 0.6); } 
+    97% { background: rgba(255, 0, 0, 0.5); } /* Kilatan layar kedua lebih merah */
     98% { background: rgba(255, 255, 255, 0); } 
-  }
+}
   @keyframes bolt-strike { 
     0%, 96%, 100% { opacity: 0; transform: skewX(0deg); } 
     97% { opacity: 1; transform: skewX(-20deg) translateX(100px); } 
