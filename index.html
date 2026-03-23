@@ -211,7 +211,8 @@
     box-shadow: 0 0 30px #ffcc00;
   }
 </style>
-
+<div class="lightning-bolt"></div>
+<div class="bolt-line"></div>
 <div class="main-container-toto">
   <div style="margin-bottom: 20px; text-align: center;">
     <a href="https://direktur4d.my/register?referral_code=direkturvip " target="_blank">
@@ -944,6 +945,30 @@ h1.rainbow-text {
     .livechat-float { width: 85px; bottom: 15px; right: 15px; }
     h1.rainbow-text { font-size: 20px; }
 }
+    /* --- EFEK PETIR TAMBAHAN --- */
+  .lightning-bolt { 
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
+    pointer-events: none; z-index: 9998; background: rgba(255, 255, 255, 0); 
+    animation: lightning-flash 6s infinite; 
+  }
+  .bolt-line { 
+    position: fixed; top: 0; left: 50%; width: 2px; height: 100%; 
+    background: #fff; opacity: 0; z-index: 9999; 
+    box-shadow: 0 0 20px #fff, 0 0 40px #00f; 
+    animation: bolt-strike 6s infinite; 
+  }
+  @keyframes lightning-flash { 
+    0%, 94%, 100% { background: rgba(255, 255, 255, 0); } 
+    95% { background: rgba(255, 255, 255, 0.4); } 
+    96% { background: rgba(255, 255, 255, 0); } 
+    97% { background: rgba(135, 206, 250, 0.6); } 
+    98% { background: rgba(255, 255, 255, 0); } 
+  }
+  @keyframes bolt-strike { 
+    0%, 96%, 100% { opacity: 0; transform: skewX(0deg); } 
+    97% { opacity: 1; transform: skewX(-20deg) translateX(100px); } 
+    98% { opacity: 0; } 
+  }
 </style>
 </body>
 </html>
