@@ -2241,13 +2241,15 @@ img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; wid
   // setInterval(fall, 600);
   
 window.addEventListener('load', () => {
-    const nav = document.getElementById('capsuleNav');
-    const activeBtn = document.querySelector('.btn-bulan.active');
-    if (activeBtn) {
-        
-        const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
-        nav.scrollLeft = offset;
-    }
+    setTimeout(() => {
+        const nav = document.getElementById('capsuleNav');
+        const activeBtn = document.querySelector('.btn-bulan.active');
+
+        if (activeBtn && nav) {
+            const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
+            nav.scrollLeft = offset;
+        }
+    }, 300);
 });
 </script>
   </div> </div> </div> <div class="livechat-float">
