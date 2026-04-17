@@ -2242,14 +2242,24 @@ img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; wid
   
 window.addEventListener('load', () => {
     setTimeout(() => {
-        const nav = document.getElementById('capsuleNav');
-        const activeBtn = document.querySelector('.btn-bulan.active');
 
-        if (activeBtn && nav) {
+        const nav = document.getElementById('capsuleNav');
+        const buttons = document.querySelectorAll('.btn-bulan');
+
+        const bulanSekarang = new Date().getMonth(); // April = 3
+
+        if (buttons[bulanSekarang]) {
+
+            buttons.forEach(btn => btn.classList.remove('active'));
+
+            buttons[bulanSekarang].classList.add('active');
+
+            const activeBtn = buttons[bulanSekarang];
             const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
             nav.scrollLeft = offset;
         }
-    }, 300);
+
+    }, 500);
 });
 </script>
   </div> </div> </div> <div class="livechat-float">
