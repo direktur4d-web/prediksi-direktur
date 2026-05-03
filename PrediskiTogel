@@ -1,0 +1,3100 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Direktur4D: Link Alternatif Resmi & Panduan Login Aman 2026</title>
+    <link rel="canonical" href="https://direktur4d.it.com/" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="icon" type="image/gif" href="https://i.imgur.com/T6xb9ux.gif">
+<meta name="description" content="Selamat datang di link alternatif resmi Direktur4D. Temukan akses login terbaru dan panduan daftar akun yang aman dengan layanan bantuan 24 jam. Nikmati kemudahan akses anti blokir melalui domain resmi direktur4d.it.com untuk pengalaman terbaik di tahun 2026.">
+<meta name="keywords" content="direktur4d, prediksi direktur4d, link direktur4d">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background-color: #000;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-container-toto {
+  padding: 20px 0 0 0; 
+  font-family: 'Segoe UI', sans-serif;
+  flex: 1; 
+  width: 100%;
+  color: #fff;
+  position: relative;
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('https://imgur.com/twCoq9d.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+  
+  .jam-live-box { text-align: center; margin: 20px 0; width: 100%; }
+  .jam-title { color: #ffcc00; font-weight: bold; font-size: 14px; text-transform: uppercase; margin-bottom: 8px; display: block; }
+  .jam-display {
+    background: rgba(0,0,0,0.9); color: #ffcc00; border: 2px solid #ffcc00;
+    padding: 8px 25px; border-radius: 12px; font-size: 24px; font-weight: 900;
+    display: inline-block; box-shadow: 0 0 15px rgba(255, 204, 0, 0.5);
+  }
+
+  
+  .slider-container-wrapper {
+    display: flex; align-items: center; justify-content: center;
+    max-width: 1000px; margin: 30px auto; gap: 10px; position: relative;
+  }
+
+  
+  .capsule-nav {
+    display: flex; overflow-x: auto; scroll-behavior: smooth;
+    padding: 12px 20px; gap: 10px; scrollbar-width: none; width: 100%; align-items: center;
+    position: relative; border-radius: 60px;
+    background: #000;
+    z-index: 1;
+    
+    border: 2px solid transparent;
+    background-image: linear-gradient(#000, #000), 
+                      conic-gradient(from var(--angle), transparent 20%, #ffcc00 50%, transparent 80%);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    animation: premiumRotate 3s linear infinite;
+  }
+
+  
+  @property --angle {
+    syntax: '<angle>';
+    initial-value: 0deg;
+    inherits: false;
+  }
+
+  @keyframes premiumRotate {
+    to { --angle: 360deg; }
+  }
+
+  
+  .capsule-nav::-webkit-scrollbar { display: none; }
+  .btn-bulan { flex: 0 0 auto; z-index: 10; }
+
+  @keyframes rotateBorder {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .btn-bulan {
+    flex: 0 0 auto; background: transparent; color: #ffffff; border: none;
+    padding: 12px 25px; cursor: pointer; font-weight: bold;
+    border-radius: 50px; transition: 0.3s; text-transform: uppercase; font-size: 13px;
+    line-height: 1.2; text-align: center;
+  }
+  .btn-bulan.active {
+    background: linear-gradient(#ffcc00, #d4a017); color: #000;
+    box-shadow: 0 0 20px #ffcc00;
+  }
+  .btn-bulan.coming { opacity: 0.3; cursor: default; font-size: 10px; color: #ccc; }
+
+  .arrow-nav {
+    background: #ffcc00; color: #000; border: none;
+    width: 40px; height: 40px; border-radius: 50%;
+    cursor: pointer; font-weight: bold; font-size: 20px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 0 10px #ffcc00; flex-shrink: 0;
+  }
+
+  .tanggal-header {
+    max-width: 1100px; margin: 30px auto 15px; color: #ffcc00;
+    font-weight: bold; border-bottom: 2px solid #ffcc00; padding-bottom: 8px; font-size: 18px;
+  }
+  .grid-toto {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;
+    max-width: 1100px; margin: 0 auto 50px;
+  }
+  .card-toto {
+    background: rgba(15, 15, 25, 0.95); border-radius: 20px; overflow: hidden;
+    border: 1px solid #333; transition: 0.3s; display: flex; flex-direction: column;
+  }
+  .card-toto:hover { border-color: #ffcc00; transform: translateY(-5px); }
+  .card-label {
+    background: linear-gradient(90deg, #d4a017, #ffcc00, #d4a017);
+    color: #000; padding: 12px; text-align: center; font-weight: 800; font-size: 13px;
+  }
+  .card-toto img { width: 100%; cursor: pointer; }
+  .card-footer { padding: 15px; text-align: center; background: #0a0a0a; margin-top: auto; }
+
+  .btn-link {
+    background: linear-gradient(#ffcc00, #d4a017); color: #000 !important;
+    padding: 10px 20px; border-radius: 30px; text-decoration: none !important;
+    font-size: 12px; font-weight: 900; display: inline-block; position: relative; overflow: hidden;
+  }
+  .btn-link::after {
+    content: ''; position: absolute; top: -50%; left: -60%; width: 20%; height: 200%;
+    background: rgba(255, 255, 255, 0.5); transform: rotate(30deg); animation: shine 3s infinite;
+  }
+  @keyframes shine { 0% { left: -60%; } 20%, 100% { left: 120%; } }
+
+  
+  @media (max-width: 992px) { .grid-toto { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
+  #report-abuse, .navbar { display: none !important; }
+  .container-tombol-vip {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px auto;
+    max-width: 1100px;
+    padding: 0 15px;
+  }
+
+  .btn-paten {
+    flex: 1;
+    max-width: 220px;
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 12px;
+    font-family: 'Arial Black', sans-serif;
+    position: relative;
+    overflow: hidden;
+    transition: 0.4s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000; 
+    border: 2px solid #ffcc00;
+    color: #ffcc00 !important;
+    box-shadow: 0 0 15px rgba(255, 204, 0, 0.4);
+    animation: denyut-vip 2s infinite;
+  }
+
+  .btn-paten::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -100%;
+    width: 50%;
+    height: 200%;
+    background: rgba(255, 255, 255, 0.2);
+    transform: rotate(30deg);
+    animation: kilau-vip 3s infinite;
+  }
+
+  @keyframes kilau-vip {
+    0% { left: -100%; }
+    20% { left: 150%; }
+    100% { left: 150%; }
+  }
+
+  @keyframes denyut-vip {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 204, 0, 0.6); }
+    70% { transform: scale(1.03); box-shadow: 0 0 0 12px rgba(255, 204, 0, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255, 204, 0, 0); }
+  }
+
+  .btn-paten:hover {
+    background: #ffcc00;
+    color: #000 !important;
+    transform: translateY(-5px);
+    box-shadow: 0 0 30px #ffcc00;
+  }
+</style>
+<div class="lightning-bolt"></div>
+<div class="bolt-line"></div>
+<div class="main-container-toto">
+  <div style="margin-bottom: 20px; text-align: center;">
+    <a href="https://web-direktur4d.boats/register?referral_code=direkturvip " target="_blank">
+      <img src="https://i.imgur.com/T6xb9ux.gif" style="max-width: 280px;" />
+    </a>
+  </div>
+  <div class="container-tombol-vip">
+    <a href="https://web-direktur4d.boats/register?referral_code=direkturvip " target="_blank" class="btn-paten">
+       <span style="margin-right: 10px;">🚀</span> DAFTAR
+    </a>
+    <a href="https://web-direktur4d.boats/register?referral_code=direkturvip " target="_blank" class="btn-paten">
+       <span style="margin-right: 10px;">🔑</span> LOGIN
+    </a>
+  </div>
+
+  <div class="jam-live-box" style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
+    <h1 class="rainbow-text">DIREKTUR4D | Prediksi Jitu & Link Resmi Terpercaya</h1>
+      
+    <div class="jam-display" id="clock">00:00:00</div>
+</div>
+  
+  <div class="marquee-nonstop-container">
+    <div class="marquee-nonstop-content">
+        <span>⚡ SELAMAT DATANG DI DIREKTUR4D : PUSAT INFORMASI DAN PREDIKSI TERAKURAT ⚡</span>
+        <span class="divider"> | </span>
+        <span>PASARAN TERLENGKAP</span>
+        <span class="divider"> | </span>
+        <span>DEPO WD TERCEPAT!</span>
+        <span class="divider"> | </span>
+        <span>BERAPAPUN KEMENANGAN ANDA AKAN KAMI BAYAR LUNAS! ⚡</span>
+    </div>
+</div>
+
+<style>
+.marquee-nonstop-container {
+    background: #000 !important;
+    border-top: 2px solid #ffcc00 !important;
+    border-bottom: 2px solid #ffcc00 !important;
+    
+    
+    width: 100vw !important;
+    position: relative !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    
+    
+    z-index: 999999999 !important; 
+    
+    padding: 12px 0 !important;
+    margin: 20px 0 !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    pointer-events: none !important; 
+    box-shadow: 0 0 25px rgba(255, 204, 0, 0.7) !important;
+}
+
+.marquee-nonstop-content {
+    display: inline-block !important;
+    padding-left: 100% !important;
+    animation: gerak-abadi 20s linear infinite !important;
+    font-family: 'Arial Black', sans-serif !important;
+    font-weight: bold !important;
+    color: #ffffff !important; 
+    font-size: 14px !important;
+    text-transform: uppercase !important;
+    text-shadow: 0 0 5px rgba(255, 204, 0, 0.8); 
+}
+
+
+.highlight-emas {
+    color: #ffcc00 !important;
+}
+
+@keyframes gerak-abadi {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+</style>
+
+  <div class="slider-container-wrapper">
+    <button class="arrow-nav" onclick="moveNav(-200)">❮</button>
+    <div class="capsule-nav" id="capsuleNav">
+      <button class="btn-bulan coming">Januari<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Februari<br /><span>Coming Soon</span></button>
+       <button class="btn-bulan coming">Maret<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan" onclick="tabKe('april', this)">April</button>
+      <button class="btn-bulan active" onclick="tabKe('mei', this)">Mei</button>
+      <button class="btn-bulan coming">Juni<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Juli<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Agustus<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Sept<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Okt<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Nov<br /><span>Coming Soon</span></button>
+      <button class="btn-bulan coming">Des<br /><span>Coming Soon</span></button>
+    </div>
+    <button class="arrow-nav" onclick="moveNav(200)">❯</button>
+  </div>
+
+     <div class="tab-isi" id="mei" style="display: block;">
+         <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-05-04">04 MEI 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 04 MEI</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 04 Mei 2026"
+         src="https://i.postimg.cc/kg1SKG3c/T-M-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 04 MEI 2026</strong><br>
+      <strong>BBFS: 621972 | CB: 9 & 1 | ANGKA MAIN: 6219 | SHIO: NAGA</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 04-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 04 MEI</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 04 Mei 2026"
+         src="https://i.postimg.cc/prRrgMMK/SDY-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 04 MEI 2026</strong><br>
+      <strong>BBFS: 712680 | CB: 2 & 6 | ANGKA MAIN: 7126 | SHIO: KERBAU</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 04-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 04 MEI</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 04 Mei 2026"
+         src="https://i.postimg.cc/wvcT54RD/S-G-P-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 04 MEI 2026</strong><br>
+      <strong>BBFS: 150368 | CB: 1 & 0 | ANGKA MAIN: 1503 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 04-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 04 MEI</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 04 Mei 2026"
+         src="https://i.postimg.cc/bJ8qv0VN/HK-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 04 MEI 2026</strong><br>
+      <strong>BBFS: 680651 | CB: 6 & 8 | ANGKA MAIN: 6806 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 04-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+         <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-05-03">03 MEI 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 03 MEI</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 03 Mei 2026"
+         src="https://i.postimg.cc/9z585H4s/T-M-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 03 MEI 2026</strong><br>
+      <strong>BBFS: 894205 | CB: 2 & 5 | ANGKA MAIN: 0852 | SHIO: TIKUS</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 03-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 03 MEI</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 03 Mei 2026"
+         src="https://i.postimg.cc/DZ2HzXcx/SDY-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 03 MEI 2026</strong><br>
+      <strong>BBFS: 308544 | CB: 8 & 3 | ANGKA MAIN: 3085 | SHIO: ULAR</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 03-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 03 MEI</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 03 Mei 2026"
+         src="https://i.postimg.cc/SRGKM8Bt/w5r18.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 03 MEI 2026</strong><br>
+      <strong>BBFS: 809013 | CB: 0 & 9 | ANGKA MAIN: 8090 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 03-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 03 MEI</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 03 Mei 2026"
+         src="https://i.postimg.cc/SNSV9d6F/HK-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 03 MEI 2026</strong><br>
+      <strong>BBFS: 052998 | CB: 9 & 2 | ANGKA MAIN: 0529 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 03-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+         <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-05-02">02 MEI 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 02 MEI</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 02 Mei 2026"
+         src="https://i.postimg.cc/SKzw9p2n/T-M-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 02 MEI 2026</strong><br>
+      <strong>BBFS: 952836 | CB: 2 & 5 | ANGKA MAIN: 9528 | SHIO: HARIMAU</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 02-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 02 MEI</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 02 Mei 2026"
+         src="https://i.postimg.cc/Y02ndc9J/SDY-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 02 MEI 2026</strong><br>
+      <strong>BBFS: 456361 | CB: 6 & 4 | ANGKA MAIN: 4563 | SHIO: KUDA</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 02-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 02 MEI</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 02 Mei 2026"
+         src="https://i.postimg.cc/0ySfd5nN/S-G-P-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 02 MEI 2026</strong><br>
+      <strong>BBFS: 956319 | CB: 5 & 3 | ANGKA MAIN: 9563 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 02-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 02 MEI</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 02 Mei 2026"
+         src="https://i.postimg.cc/rpJ5QDrK/HK-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 02 MEI 2026</strong><br>
+      <strong>BBFS: 109367 | CB: 0 & 9 | ANGKA MAIN: 1093 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 02-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+         <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-05-01">01 MEI 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 01 MEI</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 01 Mei 2026"
+         src="https://i.postimg.cc/6pPL3dpn/T-M-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 01 MEI 2026</strong><br>
+      <strong>BBFS: 085203 | CB: 0 & 8 | ANGKA MAIN: 0852 | SHIO: NAGA</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 01-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 01 MEI</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 01 Mei 2026"
+         src="https://i.postimg.cc/1zxn2Mz6/SDY-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 01 MEI 2026</strong><br>
+      <strong>BBFS: 715839 | CB: 7 & 1 | ANGKA MAIN: 7158 | SHIO: KERBAU</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 01-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 01 MEI</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 01 Mei 2026"
+         src="https://i.postimg.cc/DZxzvc7H/S-G-P-OFF-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 01 MEI 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 01 MEI</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 01 Mei 2026"
+         src="https://i.postimg.cc/tJb8c00Y/HK-5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 01 MEI 2026</strong><br>
+      <strong>BBFS: 359581 | CB: 5 & 3 | ANGKA MAIN: 3595 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 01-05-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+         </div>
+  
+  <div class="tab-isi" id="april" style="display: none;">
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-30">30 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 30 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 30 April 2026"
+         src="https://i.postimg.cc/GmQps2X2/T-M-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 30 APR 2026</strong><br>
+      <strong>BBFS: 387297 | CB: 7 & 8 | ANGKA MAIN: 3872 | SHIO: ANJING</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 30-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 30 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 30 April 2026"
+         src="https://i.postimg.cc/mkY4fXqV/SDY-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 30 APR 2026</strong><br>
+      <strong>BBFS: 823970 | CB: 9 & 3 | ANGKA MAIN: 8239 | SHIO: TIKUS</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 30-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 30 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 30 April 2026"
+         src="https://i.postimg.cc/rwpBQw8Z/S-G-P-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 30 APR 2026</strong><br>
+      <strong>BBFS: 024670 | CB: 0 & 6 | ANGKA MAIN: 0246 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 30-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 30 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 30 April 2026"
+         src="https://i.postimg.cc/XJ6DSj0T/HK-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 30 APR 2026</strong><br>
+      <strong>BBFS: 427984 | CB: 4 & 7 | ANGKA MAIN: 4279 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 30-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-29">29 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 29 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 29 April 2026"
+         src="https://i.postimg.cc/pTTBKbVL/T-M-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 29 APR 2026</strong><br>
+      <strong>BBFS: 953086 | CB: 9 & 5 | ANGKA MAIN: 9530 | SHIO: ULAR</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 29-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 29 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 29 April 2026"
+         src="https://i.postimg.cc/PqLWqbSj/SDY-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 29 APR 2026</strong><br>
+      <strong>BBFS: 968171 | CB: 1 & 8 | ANGKA MAIN: 9681 | SHIO: AYAM</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 29-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 29 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 29 April 2026"
+         src="https://i.postimg.cc/YSqpN85H/S-G-P-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 29 APR 2026</strong><br>
+      <strong>BBFS: 637093 | CB: 9 & 3 | ANGKA MAIN: 6370 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 29-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 29 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 29 April 2026"
+         src="https://i.postimg.cc/6p6sFqYZ/HK-4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 29 APR 2026</strong><br>
+      <strong>BBFS: 695737 | CB: 7 & 5 | ANGKA MAIN: 6957 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 29-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-28">28 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 28 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 28 April 2026"
+         src="https://imgur.com/MA1stUQ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 28 APR 2026</strong><br>
+      <strong>BBFS: 634920 | CB: 4 & 9 | ANGKA MAIN: 6349 | SHIO: AYAM</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 28-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 28 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 28 April 2026"
+         src="https://imgur.com/fOZgSeZ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 28 APR 2026</strong><br>
+      <strong>BBFS: 196781 | CB: 1 & 7 | ANGKA MAIN: 1967 | SHIO: KAMBING</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 28-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 28 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 28 April 2026"
+         src="https://imgur.com/9YuFmn4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 28 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 28 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 28 April 2026"
+         src="https://imgur.com/IpC0YQt.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 28 APR 2026</strong><br>
+      <strong>BBFS: 998637 | CB: 9 & 8 | ANGKA MAIN: 9986 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 28-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-27">27 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 27 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 27 April 2026"
+         src="https://imgur.com/jCE7U0W.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 27 APR 2026</strong><br>
+      <strong>BBFS: 784125 | CB: 4 & 1 | ANGKA MAIN: 7841 | SHIO: BABI</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 27-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 27 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 27 April 2026"
+         src="https://imgur.com/mzf7asd.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 27 APR 2026</strong><br>
+      <strong>BBFS: 524917 | CB: 5 & 9 | ANGKA MAIN: 5249 | SHIO: NAGA</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 27-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 27 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 27 April 2026"
+         src="https://imgur.com/QQnmf4C.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 27 APR 2026</strong><br>
+      <strong>BBFS: 872709 | CB: 7 & 2 | ANGKA MAIN: 8727 | SHIO: KUDA</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 27-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 27 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 27 April 2026"
+         src="https://imgur.com/OfAi98M.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 27 APR 2026</strong><br>
+      <strong>BBFS: 021780 | CB: 0 & 7 | ANGKA MAIN: 0217 | SHIO: ANJING</strong><br>
+      Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 27-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-26">26 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 26 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 26 April 2026"
+         src="https://imgur.com/aU3qV1C.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 26 APR 2026</strong><br>
+      <strong>BBFS: 916322 | CB: 3 & 2 | ANGKA MAIN: 9163 | SHIO: HARIMAU</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 26-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 26 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 26 April 2026"
+         src="https://imgur.com/9GvZcpf.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 26 APR 2026</strong><br>
+      <strong>BBFS: 476120 | CB: 4 & 1 | ANGKA MAIN: 3608 | SHIO: MONYET</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 26-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 26 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 26 April 2026"
+         src="https://imgur.com/rTy8pK5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 26 APR 2026</strong><br>
+      <strong>BBFS: 520537 | CB: 5 & 7 | ANGKA MAIN: 5205 | SHIO: KERBAU</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 26-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 26 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 26 April 2026"
+         src="https://imgur.com/9f8x6yb.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 26 APR 2026</strong><br>
+      <strong>BBFS: 921832 | CB: 2 & 8 | ANGKA MAIN: 9218 | SHIO: BABI</strong><br>
+      Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 26-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-25">25 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 25 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 25 April 2026"
+         src="https://imgur.com/otRFHPb.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 25 APR 2026</strong><br>
+      <strong>BBFS: 239071 | CB: 9 & 0 | ANGKA MAIN: 2390 | SHIO: ANJING</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 25-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 25 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 25 April 2026"
+         src="https://imgur.com/VPAZ9xZ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 25 APR 2026</strong><br>
+      <strong>BBFS: 360893 | CB: 8 & 3 | ANGKA MAIN: 3608 | SHIO: KELINCI</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 25-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 25 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 25 April 2026"
+         src="https://imgur.com/TGBsvWA.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 25 APR 2026</strong><br>
+      <strong>BBFS: 835960 | CB: 8 & 3| ANGKA MAIN: 8359 | SHIO: AYAM</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 25-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 25 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 25 April 2026"
+         src="https://imgur.com/a9uO1v2.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 25 APR 2026</strong><br>
+      <strong>BBFS: 053161 | CB: 1 & 6 | ANGKA MAIN: 0531 | SHIO: MONYET</strong><br>
+      Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 25-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-24">24 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 24 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 24 April 2026"
+         src="https://imgur.com/Oohg4df.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 24 APR 2026</strong><br>
+      <strong>BBFS: 598039 | CB: 9 & 8 | ANGKA MAIN: 5980 | SHIO: KELINCI</strong><br>
+      Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 24-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 24 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 24 April 2026"
+         src="https://imgur.com/KAhJo0Z.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 24 APR 2026</strong><br>
+      <strong>BBFS: 627201 | CB: 2 & 7 | ANGKA MAIN: 6272 | SHIO: BABI</strong><br>
+      Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 24-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 24 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 24 April 2026"
+         src="https://imgur.com/rPiLh77.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 24 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 24 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 24 April 2026"
+         src="https://imgur.com/Em16EDh.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 24 APR 2026</strong><br>
+      <strong>BBFS: 469218 | CB: 6 & 9 | ANGKA MAIN: 4692 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 24-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-23">23 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 23 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 23 April 2026"
+         src="https://imgur.com/qEkdORA.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 23 APR 2026</strong><br>
+      <strong>BBFS: 830742 | CB: 8 & 0 | ANGKA MAIN: 8307 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 23-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 23 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 23 April 2026"
+         src="https://imgur.com/T87asLv.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 23 APR 2026</strong><br>
+      <strong>BBFS: 575649 | CB: 5 & 6 | ANGKA MAIN: 5756 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 23-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 23 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 23 April 2026"
+         src="https://imgur.com/4RXbdPw.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 23 APR 2026</strong><br>
+      <strong>BBFS: 271145 | CB: 1 & 5 | ANGKA MAIN: 2711 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 23-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 23 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 23 April 2026"
+         src="https://imgur.com/rxl6dsY.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 23 APR 2026</strong><br>
+      <strong>BBFS: 527850 | CB: 5 & 7 | ANGKA MAIN: 5278 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 23-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-22">22 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 22 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 22 April 2026"
+         src="https://imgur.com/SrE1auk.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 22 APR 2026</strong><br>
+      <strong>BBFS: 469128 | CB: 4 & 9 | ANGKA MAIN: 4691 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 22-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 22 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 22 April 2026"
+         src="https://imgur.com/kjDOO7o.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 22 APR 2026</strong><br>
+      <strong>BBFS: 207483 | CB: 2 & 4 | ANGKA MAIN: 2074 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 22-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 22 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 22 April 2026"
+         src="https://imgur.com/MfZcMyw.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 22 APR 2026</strong><br>
+      <strong>BBFS: 063146 | CB: 6 & 1 | ANGKA MAIN: 0631 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 22-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 22 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 22 April 2026"
+         src="https://imgur.com/ksd0MT8.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 22 APR 2026</strong><br>
+      <strong>BBFS: 843475 | CB: 4 & 3 | ANGKA MAIN: 8434 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 22-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-21">21 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 21 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 21 April 2026"
+         src="https://imgur.com/QmgieUx.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 21 APR 2026</strong><br>
+      <strong>BBFS: 684794 | CB: 8 & 4 | ANGKA MAIN: 6847 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 21-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 21 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 21 April 2026"
+         src="https://imgur.com/JJypK8n.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 21 APR 2026</strong><br>
+      <strong>BBFS: 572346 | CB: 3 & 7 | ANGKA MAIN: 5723 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 21-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 21 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 21 April 2026"
+         src="https://imgur.com/do6kTwl.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 21 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 21 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 21 April 2026"
+         src="https://imgur.com/O3fljJC.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 21 APR 2026</strong><br>
+      <strong>BBFS: 970516 | CB: 9 & 5 | ANGKA MAIN: 9705 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 21-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+       <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-20">20 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 20 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 20 April 2026"
+         src="https://imgur.com/oIDu7Q3.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 20 APR 2026</strong><br>
+      <strong>BBFS: 304739 | CB: 3 & 8 | ANGKA MAIN: 304739 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 20-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 20 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 20 April 2026"
+         src="https://imgur.com/aM4YsfM.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 20 APR 2026</strong><br>
+      <strong>BBFS: 890377 | CB: 7 & 8 | ANGKA MAIN: 8903 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 20-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 20 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 20 April 2026"
+         src="https://imgur.com/QLglVrJ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 20 APR 2026</strong><br>
+      <strong>BBFS: 304739 | CB: 3 & 7 | ANGKA MAIN: 3047 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 20-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 20 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 20 April 2026"
+         src="https://imgur.com/Yq1gNHt.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 20 APR 2026</strong><br>
+      <strong>BBFS: 619672 | CB: 6 & 9 | ANGKA MAIN: 6196 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 20-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-19">19 APRIL 2026</time></div>
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 19 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 19 April 2026"
+         src="https://imgur.com/AVMQ3OA.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 19 APR 2026</strong><br>
+      <strong>BBFS: 494387 | CB: 4 & 3 | ANGKA MAIN: 4943 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 19-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 19 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 19 April 2026"
+         src="https://imgur.com/vrewNCd.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 19 APR 2026</strong><br>
+      <strong>BBFS: 523470 | CB: 5 & 7 | ANGKA MAIN: 5234 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 19-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 19 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 19 April 2026"
+         src="https://imgur.com/y81dDre.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 19 APR 2026</strong><br>
+      <strong>BBFS: 183682 | CB: 6 & 8 | ANGKA MAIN: 1836 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 19-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 19 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 19 April 2026"
+         src="https://imgur.com/u3Pcmk4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 19 APR 2026</strong><br>
+      <strong>BBFS: 922170 | CB: 2 & 1 | ANGKA MAIN: 9221 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 19-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+ <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-18">18 APRIL 2026</time></div>
+<div class="grid-toto">
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 18 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 18 April 2026"
+         src="https://imgur.com/vaUZkyn.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 18 APR 2026</strong><br>
+      <strong>BBFS: 004569 | CB: 0 & 5 | ANGKA MAIN: 0045 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 18-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 18 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 18 April 2026"
+         src="https://imgur.com/jKhWDWu.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 18 APR 2026</strong><br>
+      <strong>BBFS: 128319 | CB: 3 & 1 | ANGKA MAIN: 1283 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 18-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 18 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 18 April 2026"
+         src="https://imgur.com/60oqCEn.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 18 APR 2026</strong><br>
+      <strong>BBFS: 372529 | CB: 2 & 7 | ANGKA MAIN: 3725 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 18-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 18 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 18 April 2026"
+         src="https://imgur.com/2E0qt62.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 18 APR 2026</strong><br>
+      <strong>BBFS: 818475 | CB: 8 & 1 | ANGKA MAIN: 8184 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 18-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-17">17 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 17 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 17 April 2026"
+         src="https://imgur.com/1fPRkDt.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 17 APR 2026</strong><br>
+      <strong>BBFS: 907123 | CB: 3 & 9 | ANGKA MAIN: 9071 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 17-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 17 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 17 April 2026"
+         src="https://imgur.com/xakYB9x.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 17 APR 2026</strong><br>
+      <strong>BBFS: 160513 | CB: 1 & 5 | ANGKA MAIN: 1605 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 17-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 17 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 17 April 2026"
+         src="https://imgur.com/7v6uvx9.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 17 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 17 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 17 April 2026"
+         src="https://imgur.com/PJqWntM.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 17 APR 2026</strong><br>
+      <strong>BBFS: 350742 | CB: 7 & 5 | ANGKA MAIN: 3507 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 17-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-16">16 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 16 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 16 April 2026"
+         src="https://imgur.com/bihwb6Z.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 16 APR 2026</strong><br>
+      <strong>BBFS: 116453 | CB: 1 & 6 | ANGKA MAIN:1164 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 16-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 16 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 16 April 2026"
+         src="https://imgur.com/MZuYBAw.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 16 APR 2026</strong><br>
+      <strong>BBFS: 360292 | CB: 2 & 3 | ANGKA MAIN: 3602 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 16-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 16 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 16 April 2026"
+         src="https://imgur.com/5XctsbS.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 16 APR 2026</strong><br>
+      <strong>BBFS: 697483 | CB: 8 & 4 | ANGKA MAIN: 6974 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 16-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 16 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 16 April 2026"
+         src="https://imgur.com/wH39LbW.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 16 APR 2026</strong><br>
+      <strong>BBFS: 617954 | CB: 9 & 5 | ANGKA MAIN:6179 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 16-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-15">15 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 15 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 15 April 2026"
+         src="https://imgur.com/NGkuQPw.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 15 APR 2026</strong><br>
+      <strong>BBFS: 897610 | CB: 7 & 6 | ANGKA MAIN:8976 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 15-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 15 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 15 April 2026"
+         src="https://imgur.com/Ky0XLa4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 15 APR 2026</strong><br>
+      <strong>BBFS: 98610 | CB: 9 & 8 | ANGKA MAIN: 9861 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 15-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 15 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 15 April 2026"
+         src="https://imgur.com/oCZGWi4.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 15 APR 2026</strong><br>
+      <strong>BBFS: 811924 | CB: 1 & 8 | ANGKA MAIN: 8119 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 15-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 15 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 15 April 2026"
+         src="https://imgur.com/WH1c0UU.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 15 APR 2026</strong><br>
+      <strong>BBFS: 678435 | CB: 8 & 4 | ANGKA MAIN:6784 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 15-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-14">14 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 14 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 14 April 2026"
+         src="https://imgur.com/9cuEipE.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 14 APR 2026</strong><br>
+      <strong>BBFS: 677193 | CB: 7 & 1 | ANGKA MAIN:6771 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 14-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 14 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 14 April 2026"
+         src="https://imgur.com/tM3Wn5W.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 14 APR 2026</strong><br>
+      <strong>BBFS: 510482 | CB: 5 & 4 | ANGKA MAIN: 5104 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 14-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 14 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 14 April 2026"
+         src="https://imgur.com/GPVluOX.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 14 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 14 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 14 April 2026"
+         src="https://imgur.com/S71wPKd.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 14 APR 2026</strong><br>
+      <strong>BBFS: 953690 | CB: 9 & 5 | ANGKA MAIN:9536 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 14-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-13">13 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 13 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 13 April 2026"
+         src="https://imgur.com/kn8h0RD.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 13 APR 2026</strong><br>
+      <strong>BBFS: 710143 | CB: 1 & 0 | ANGKA MAIN:7101 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 13-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 13 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 13 April 2026"
+         src="https://imgur.com/0DxLmK9.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 13 APR 2026</strong><br>
+      <strong>BBFS: 205817 | CB: 8 & 5 | ANGKA MAIN: 2058 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 13-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 13 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 13 April 2026"
+         src="https://imgur.com/1bUmhYD.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 13 APR 2026</strong><br>
+      <strong>BBFS: 597263 | CB: 9 & 3 | ANGKA MAIN: 5972 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 13-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 13 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 13 April 2026"
+         src="https://imgur.com/Z3JjTge.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 13 APR 2026</strong><br>
+      <strong>BBFS: 827425 | CB: 2 & 7 | ANGKA MAIN:8274 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 13-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+     <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-12">12 APRIL 2026</time></div>
+
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 12 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 12 April 2026"
+         src="https://imgur.com/XT2OOfp.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 12 APR 2026</strong><br>
+      <strong>BBFS: 593462 | CB: 4 & 3 | ANGKA MAIN:5934 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 12-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 12 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 12 April 2026"
+         src="https://imgur.com/bLHmoex.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 12 APR 2026</strong><br>
+      <strong>BBFS: 536349 | CB: 3 & 5 | ANGKA MAIN: 5363 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 12-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 12 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 12 April 2026"
+         src="https://imgur.com/jixbKMm.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 12 APR 2026</strong><br>
+      <strong>BBFS: 720554 | CB: 5 & 7 | ANGKA MAIN: 7205 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 12-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 12 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 12 April 2026"
+         src="https://imgur.com/qnZ6Hfm.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 12 APR 2026</strong><br>
+      <strong>BBFS: 041750 | CB: 0 & 4 | ANGKA MAIN:0417 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 12-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-11">11 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 11 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 11 April 2026"
+         src="https://imgur.com/zXmknE7.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 11 APR 2026</strong><br>
+      <strong>BBFS: 245721 | CB: 5 & 0 | ANGKA MAIN:2457 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 11-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 11 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 11 April 2026"
+         src="https://imgur.com/ANv3ZHM.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 11 APR 2026</strong><br>
+      <strong>BBFS: 675458 | CB: 5 & 4 | ANGKA MAIN: 6754 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 11-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 11 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 11 April 2026"
+         src="https://imgur.com/amEQ9b9.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 11 APR 2026</strong><br>
+      <strong>BBFS: 903717 | CB: 7 & 0 | ANGKA MAIN: 9037 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 11-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 11 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 11 April 2026"
+         src="https://imgur.com/WIkFKWe.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 11 APR 2026</strong><br>
+      <strong>BBFS: 039984 | CB: 9 & 3 | ANGKA MAIN:0399 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 11-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-10">10 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 10 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 10 April 2026"
+         src="https://imgur.com/aAqwVH6.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 10 APR 2026</strong><br>
+      <strong>BBFS: 149508 | CB: 5 & 0 | ANGKA MAIN:9804 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 10-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 10 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 10 April 2026"
+         src="https://imgur.com/201tbh6.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 10 APR 2026</strong><br>
+      <strong>BBFS: 694841 | CB: 4 & 8 | ANGKA MAIN: 6948 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 10-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 10 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 10 April 2026"
+         src="https://imgur.com/ps8ZFlj.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 10 APR 2026</strong><br>
+      <strong>BBFS: XXXXXX | CB: X & X | ANGKA MAIN: XXXX | SHIO: PASARAN OFF</strong><br>
+       Note: Seperti Biasa Pasaran Singapore Selasa & Jumat OFF PASARAN ^^
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 10 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 10 April 2026"
+         src="https://imgur.com/C0x5k9e.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 10 APR 2026</strong><br>
+      <strong>BBFS: 287932 | CB: 9 & 7 | ANGKA MAIN:2879 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 10-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-09">09 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 09 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 09 April 2026"
+         src="https://imgur.com/jsllc4L.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 09 APR 2026</strong><br>
+      <strong>BBFS: 265150 | CB: 6 & 5 | ANGKA MAIN:2651 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 09-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 09 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 09 April 2026"
+         src="https://imgur.com/UqgJwXN.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 09 APR 2026</strong><br>
+      <strong>BBFS: 326934 | CB: 3 & 2 | ANGKA MAIN: 2361 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 09-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 09 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 09 April 2026"
+         src="https://imgur.com/OBDocKZ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 09 APR 2026</strong><br>
+      <strong>BBFS: 461639 | CB: 6 & 9 | ANGKA MAIN: 4616 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 09-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 09 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 09 April 2026"
+         src="https://imgur.com/RpPQjh7.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 09 APR 2026</strong><br>
+      <strong>BBFS: 297142 | CB: 2 & 7 | ANGKA MAIN:2971 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 09-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-08">08 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 08 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 08 April 2026"
+         src="https://imgur.com/p3t7V9m.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 08 APR 2026</strong><br>
+      <strong>BBFS: 878925 | CB: 8 & 5 | ANGKA MAIN:8789 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 08-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 08 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 08 April 2026"
+         src="https://imgur.com/JyR3rxO.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 08 APR 2026</strong><br>
+      <strong>BBFS: 950141 | CB: 1 & 9 | ANGKA MAIN: 9501 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 08-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 08 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 08 April 2026"
+         src="https://imgur.com/PCutinA.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 08 APR 2026</strong><br>
+      <strong>BBFS: 558607 | CB: 8 & 5 | ANGKA MAIN: 5586 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 08-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 08 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 08 April 2026"
+         src="https://imgur.com/HtRZT9Z.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 08 APR 2026</strong><br>
+      <strong>BBFS: 914056 | CB: 4 & 9 | ANGKA MAIN:9140 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 08-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-07">07 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 07 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 07 April 2026"
+         src="https://imgur.com/7uczGcP.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 07 APR 2026</strong><br>
+      <strong>BBFS: 693005 | CB: 0 & 3 | ANGKA MAIN:6930 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 07-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 07 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 07 April 2026"
+         src="https://imgur.com/bQUGbgI.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 07 APR 2026</strong><br>
+      <strong>BBFS: 783511 | CB: 1 & 5 | ANGKA MAIN:7835 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 07-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 07 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 07 April 2026"
+         src="https://imgur.com/ZuGMMQC.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 07 APR 2026</strong><br>
+      <strong>BBFS: 183306 | CB: 3 & 8 | ANGKA MAIN:1833 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 07-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+       <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-06">06 APRIL 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 06 APRIL</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 06 April 2026"
+         src="https://imgur.com/yYuWq8G.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 06 APR 2026</strong><br>
+      <strong>BBFS: 495653 | CB: 6 & 5 | ANGKA MAIN:4956 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 06-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 06 APRIL</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 06 April 2026"
+         src="https://imgur.com/bJ9ra7U.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 06 APR 2026</strong><br>
+      <strong>BBFS: 649372 | CB: 3 & 4 | ANGKA MAIN:649372 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 06-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 06 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 06 April 2026"
+         src="https://imgur.com/hYmWb4y.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 06 APR 2026</strong><br>
+      <strong>BBFS: 277829 | CB: 7 & 9 | ANGKA MAIN:2778 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 06-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 06 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 06 April 2026"
+         src="https://imgur.com/MQtbQA5.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 06 APR 2026</strong><br>
+      <strong>BBFS: 445831 | CB: 9 & 7 | ANGKA MAIN:4458 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 06-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-05">05 APRIL 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 05 APRIL</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 05 April 2026"
+         src="https://imgur.com/T3wofIB.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 05 APR 2026</strong><br>
+      <strong>BBFS: 879602 | CB: 6 & 8 | ANGKA MAIN:8796 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 05-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 05 APRIL</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 05 April 2026"
+         src="https://imgur.com/PbhNpa8.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 05 APR 2026</strong><br>
+      <strong>BBFS: 038128 | CB: 8 & 3 | ANGKA MAIN:0381 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 05-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 05 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 05 April 2026"
+         src="https://imgur.com/hYmWb4y.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 05 APR 2026</strong><br>
+      <strong>BBFS: 155680 | CB: 5 & 6 | ANGKA MAIN:1556 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 05-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 05 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 05 April 2026"
+         src="https://imgur.com/XMCAhNL.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 05 APR 2026</strong><br>
+      <strong>BBFS: 379105 | CB: 9 & 7 | ANGKA MAIN:3791 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 05-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+     <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-04">04 APRIL 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 04 APRIL</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 04 April 2026"
+         src="https://imgur.com/4JRQ3kv.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 04 APR 2026</strong><br>
+      <strong>BBFS: 627463 | CB: 2 & 0 | ANGKA MAIN:6274 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 04-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 04 APRIL</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 04 April 2026"
+         src="https://imgur.com/uXVPZ0D.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 04 APR 2026</strong><br>
+      <strong>BBFS: 315671 | CB: 5 & 1 | ANGKA MAIN:3156 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 04-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 04 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 04 April 2026"
+         src="https://imgur.com/AdlGYOh.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 04 APR 2026</strong><br>
+      <strong>BBFS: 701769 | CB: 7 & 9 | ANGKA MAIN:7017 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 04-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 04 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 04 April 2026"
+         src="https://imgur.com/qgogCAb.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 04 APR 2026</strong><br>
+      <strong>BBFS: 037056 | CB: 3 & 6 | ANGKA MAIN:0370 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 04-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+      
+      <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-03">03 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 03 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 03 April 2026"
+         src="https://imgur.com/fQlN2tY.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 03 APR 2026</strong><br>
+      <strong>BBFS: 642051 | CB: 6 & 4 | ANGKA MAIN:6420 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 03-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 03 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 03 April 2026"
+         src="https://imgur.com/qmcywBJ.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 03 APR 2026</strong><br>
+      <strong>BBFS: 107587 | CB: 7 & 1 | ANGKA MAIN:1075 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 03-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 03 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 03 April 2026"
+         src="https://imgur.com/QTA6YGe.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 03 APR 2026</strong><br>
+      <strong>BBFS: 380291 | CB: 8 & 2 | ANGKA MAIN:3802 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 03-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+       <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-02">02 APRIL 2026</time></div>
+
+<div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 02 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 02 April 2026"
+         src="https://imgur.com/OkWJ4sW.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 02 APR 2026</strong><br>
+      <strong>BBFS: 775032 | CB: 7 & 0 | ANGKA MAIN:7750 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 02-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 02 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 02 April 2026"
+         src="https://imgur.com/XdnZDPS.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 02 APR 2026</strong><br>
+      <strong>BBFS: 340029 | CB: 0 & 4 | ANGKA MAIN:3400 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 02-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 02 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 02 April 2026"
+         src="https://imgur.com/0rL8CRk.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 02 APR 2026</strong><br>
+      <strong>BBFS: 928765 | CB: 9 & 3 | ANGKA MAIN:9287 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 02-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 02 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 02 April 2026"
+         src="https://imgur.com/yJ9Faoq.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 02 APR 2026</strong><br>
+      <strong>BBFS: 956719 | CB: 9 & 1 | ANGKA MAIN:9567 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 02-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-04-01">01 APRIL 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 01 APR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 01 April 2026"
+         src="https://imgur.com/vmZ5dSk.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 01 APR 2026</strong><br>
+      <strong>BBFS: 980496 | CB: 3 & 6 | ANGKA MAIN:9804 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 01-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 01 APR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 01 April 2026"
+         src="https://imgur.com/jTDabLq.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 01 APR 2026</strong><br>
+      <strong>BBFS: 236193 | CB: 3 & 6 | ANGKA MAIN:2361 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 01-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 01 APR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 01 April 2026"
+         src="https://imgur.com/Sp1EK2S.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 01 APR 2026</strong><br>
+      <strong>BBFS: 138956 | CB: 9 & 3 | ANGKA MAIN:1389 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 01-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 01 APR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 01 April 2026"
+         src="https://imgur.com/z9UpLP2.png" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 01 APR 2026</strong><br>
+      <strong>BBFS: 037056 | CB: 0 & 7 | ANGKA MAIN:0370 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 01-04-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+    </div>
+
+  </div>
+
+</div>   
+  
+<div class="tab-isi" id="maret" style="display: none;">
+
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-31">31 MARET 2026</time></div>
+
+  <div class="grid-toto">
+
+    <div class="card-toto">
+      <div class="card-label">TOTO MACAU - 31 MAR</div>
+      <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 31 Maret 2026"
+           src="https://imgur.com/hS5Amxc.png" loading="lazy" />
+      <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+        <strong>PREDIKSI TOTO MACAU 31 MAR 2026</strong><br>
+        <strong>BBFS: 750356 | CB: 7 & 5 | ANGKA MAIN:7503 | SHIO: BABI</strong><br>
+         Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 31-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+      </div>
+    </div>
+
+    <div class="card-toto">
+      <div class="card-label">SYDNEY - 31 MAR</div>
+      <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 31 Maret 2026"
+           src="https://imgur.com/Ac5eMEL.png" loading="lazy" />
+      <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+        <strong>PREDIKSI SYDNEY 31 MAR 2026</strong><br>
+        <strong>BBFS: 839347 | CB: 3 & 8 | ANGKA MAIN:8393 | SHIO: HARIMAU</strong><br>
+         Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 31-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+      </div>
+    </div>
+
+    <div class="card-toto">
+      <div class="card-label">HONGKONG - 31 MAR</div>
+      <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 31 Maret 2026"
+           src="https://imgur.com/zICzwcm.png" loading="lazy" />
+      <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+        <strong>PREDIKSI HONGKONG 31 MAR 2026</strong><br>
+        <strong>BBFS: 394715 | CB: 7 & 9 | ANGKA MAIN:3947 | SHIO: AYAM</strong><br>
+         Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 31-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+      </div>
+    </div>
+
+</div>
+    
+   <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-30">30 MARET 2026</time></div>
+   <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 30 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 30 Maret 2026"
+         src="https://imgur.com/jZda3U7.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 30 MAR 2026</strong><br>
+      <strong>BBFS: 264001 | CB: 2 & 0 | ANGKA MAIN:2640 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 30-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 30 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 30 Maret 2026"
+         src="https://imgur.com/WvMoQBi.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 30 MAR 2026</strong><br>
+      <strong>BBFS: 763241 | CB: 4 & 3 | ANGKA MAIN:7632 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 30-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 30 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 30 Maret 2026"
+         src="https://imgur.com/Sp1EK2S.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 30 MAR 2026</strong><br>
+      <strong>BBFS: 471720 | CB: 7 & 4 | ANGKA MAIN:4717 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 30-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 30 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 30 Maret 2026"
+         src="https://imgur.com/TyxrR7n.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 30 MAR 2026</strong><br>
+      <strong>BBFS: 037056 | CB: 0 & 7 | ANGKA MAIN:0370 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 30-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-29">29 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 29 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 29 Maret 2026"
+         src="https://imgur.com/HcUU7uJ.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 29 MAR 2026</strong><br>
+      <strong>BBFS: 049467 | CB: 4 & 0 | ANGKA MAIN:0494 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 29-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 29 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 29 Maret 2026"
+         src="https://imgur.com/fNXfznl.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 29 MAR 2026</strong><br>
+      <strong>BBFS: 684273 | CB: 8 & 4 | ANGKA MAIN:6842 | SHIO: NAGA</strong><br>
+        Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 29-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 29 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 29 Maret 2026"
+         src="https://imgur.com/z3Ge7RX.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 29 MAR 2026</strong><br>
+      <strong>BBFS: 065932 | CB: 6 & 5 | ANGKA MAIN:0659 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 29-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 29 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 29 Maret 2026"
+         src="https://imgur.com/jPcEU82.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 29 MAR 2026</strong><br>
+      <strong>BBFS: 930125 | CB: 9 & 1 | ANGKA MAIN:9301 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 29-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-28">28 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 28 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 28 Maret 2026"
+         src="https://imgur.com/pxjVeVW.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 28 MAR 2026</strong><br>
+      <strong>BBFS: 184459 | CB: 4 & 8 | ANGKA MAIN:1844 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 28-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 28 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 28 Maret 2026"
+         src="https://imgur.com/xg8i6tG.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 28 MAR 2026</strong><br>
+      <strong>BBFS: 257017 | CB: 7 & 5 | ANGKA MAIN:2570 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 28-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 28 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 28 Maret 2026"
+         src="https://imgur.com/6tXdmBH.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 28 MAR 2026</strong><br>
+      <strong>BBFS: 029196 | CB: 9 & 2 | ANGKA MAIN:0291 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 28-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 28 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 28 Maret 2026"
+         src="https://imgur.com/AmQu1NU.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 28 MAR 2026</strong><br>
+      <strong>BBFS: 930125 | CB: 9 & 1 | ANGKA MAIN:9301 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 28-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-27">27 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 27 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 27 Maret 2026"
+         src="https://imgur.com/Bv1x4ga.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 27 MAR 2026</strong><br>
+      <strong>BBFS: 410680 | CB: 0 & 6 | ANGKA MAIN:4106 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 27-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 27 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 27 Maret 2026"
+         src="https://imgur.com/QQyDxka.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 27 MAR 2026</strong><br>
+      <strong>BBFS: 719382 | CB: 7 & 3 | ANGKA MAIN:7193 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 27-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 27 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 27 Maret 2026"
+         src="https://imgur.com/Ex25oUd.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 27 MAR 2026</strong><br>
+      <strong>BBFS: 349874 | CB: 4 & 8 | ANGKA MAIN:3498 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 27-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-26">26 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 26 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 26 Maret 2026"
+         src="https://imgur.com/fOcs8TL.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 26 MAR 2026</strong><br>
+      <strong>BBFS: 697091 | CB: 9 & 0 | ANGKA MAIN:6970 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 26-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 26 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 26 Maret 2026"
+         src="https://imgur.com/Z6eSWPr.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 26 MAR 2026</strong><br>
+      <strong>BBFS: 281297 | CB: 2 & 7 | ANGKA MAIN:2812 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 26-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 26 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 26 Maret 2026"
+         src="https://imgur.com/X92Jqt6.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 26 MAR 2026</strong><br>
+      <strong>BBFS: 548638 | CB: 8 & 6 | ANGKA MAIN:5486 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 26-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 26 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 26 Maret 2026"
+         src="https://imgur.com/RnyIWAJ.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 26 MAR 2026</strong><br>
+      <strong>BBFS: 361752 | CB: 7 & 5 | ANGKA MAIN:3617 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 26-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-25">25 MARET 2026</time></div>
+   <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 25 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 25 Maret 2026"
+         src="https://imgur.com/VSO6G5F.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 25 MAR 2026</strong><br>
+      <strong>BBFS: 801664 | CB: 6 & 8 | ANGKA MAIN:8016 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 25-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 25 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 25 Maret 2026"
+         src="https://imgur.com/GDklB2f.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 25 MAR 2026</strong><br>
+      <strong>BBFS: 549607 | CB: 9 & 6 | ANGKA MAIN:5496 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 25-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 25 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 25 Maret 2026"
+         src="https://imgur.com/no5hLHu.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 25 MAR 2026</strong><br>
+      <strong>BBFS: 134686 | CB: 6 & 1 | ANGKA MAIN:1346 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 25-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 25 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 25 Maret 2026"
+         src="https://imgur.com/2h8CqVk.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 25 MAR 2026</strong><br>
+      <strong>BBFS: 402479 | CB: 7 & 5 | ANGKA MAIN:1086 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 25-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-24">24 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 24 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 24 Maret 2026"
+         src="https://imgur.com/kZpeSXn.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 24 MAR 2026</strong><br>
+      <strong>BBFS: 807296 | CB: 8 & 7 | ANGKA MAIN:8072 | SHIO: MONYET</strong><br>
+        Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 24-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 24 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 24 Maret 2026"
+         src="https://imgur.com/3ZVkZaQ.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 24 MAR 2026</strong><br>
+      <strong>BBFS: 760573 | CB: 7 & 5 | ANGKA MAIN:7605 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 24-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 24 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 24 Maret 2026"
+         src="https://imgur.com/kQeT9fR.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 24 MAR 2026</strong><br>
+      <strong>BBFS: 509068 | CB: 5 & 0 | ANGKA MAIN:5090 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 24-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+     <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-23">23 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 23 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 23 Maret 2026"
+         src="https://imgur.com/F38L5GJ.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 23 MAR 2026</strong><br>
+      <strong>BBFS: 833169 | CB: 9 & 3 | ANGKA MAIN:8331 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 23-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 23 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 23 Maret 2026"
+         src="https://imgur.com/gxBETxm.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 23 MAR 2026</strong><br>
+      <strong>BBFS: 729412 | CB: 2 & 7 | ANGKA MAIN:7294 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 23-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 23 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 23 Maret 2026"
+         src="https://imgur.com/niyifxo.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 23 MAR 2026</strong><br>
+      <strong>BBFS: 134686 | CB: 6 & 1 | ANGKA MAIN:1346 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 23-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 23 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 23 Maret 2026"
+         src="https://imgur.com/4zfLoJg.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 23 MAR 2026</strong><br>
+      <strong>BBFS: 402479 | CB: 4 & 0 | ANGKA MAIN:1086 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 23-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-22">22 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 22 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 22 Maret 2026"
+         src="https://imgur.com/dd3ECEt.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 22 MAR 2026</strong><br>
+      <strong>BBFS: 623069 | CB: 6 & 0 | ANGKA MAIN:6230 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 22-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 22 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 22 Maret 2026"
+         src="https://imgur.com/xWfxi09.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 22 MAR 2026</strong><br>
+      <strong>BBFS: 969381 | CB: 9 & 8 | ANGKA MAIN:9638 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 22-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 22 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 22 Maret 2026"
+         src="https://imgur.com/Bc2jXlh.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 22 MAR 2026</strong><br>
+      <strong>BBFS: 831973 | CB: 3 & 9 | ANGKA MAIN:8319 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 22-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 22 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 22 Maret 2026"
+         src="https://imgur.com/6lwfZHC.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 22 MAR 2026</strong><br>
+      <strong>BBFS: 517241 | CB: 7 & 1 | ANGKA MAIN:5172 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 22-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-21">21 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 21 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 21 Maret 2026"
+         src="https://imgur.com/15r9ipt.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 21 MAR 2026</strong><br>
+      <strong>BBFS: 973849 | CB: 9 & 8 | ANGKA MAIN:9738 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 21-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 21 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 21 Maret 2026"
+         src="https://imgur.com/wCGtPWC.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 21 MAR 2026</strong><br>
+      <strong>BBFS: 894524 | CB: 4 & 5 | ANGKA MAIN:8945 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 21-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 21 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 21 Maret 2026"
+         src="https://imgur.com/HZIhwcM.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 21 MAR 2026</strong><br>
+      <strong>BBFS: 383590 | CB: 3 & 0 | ANGKA MAIN:3890 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 21-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 21 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 21 Maret 2026"
+         src="https://imgur.com/ZrlowW0.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 21 MAR 2026</strong><br>
+      <strong>BBFS: 624197 | CB: 6 & 7 | ANGKA MAIN:6241 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 21-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-20">20 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 20 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 20 Maret 2026"
+         src="https://imgur.com/SR0P8BG.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 20 MAR 2026</strong><br>
+      <strong>BBFS: 600547 | CB: 0 & 5 | ANGKA MAIN:6054 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 20-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 20 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 20 Maret 2026"
+         src="https://imgur.com/LLIigQ5.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 20 MAR 2026</strong><br>
+      <strong>BBFS: 035517 | CB: 6 & 5 | ANGKA MAIN:0351 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 20-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 20 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 20 Maret 2026"
+         src="https://imgur.com/8GyMfto.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 20 MAR 2026</strong><br>
+      <strong>BBFS: 821651 | CB: 1 & 6 | ANGKA MAIN:8216 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 20-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-19">19 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 19 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 19 Maret 2026"
+         src="https://imgur.com/esMnz7P.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 19 MAR 2026</strong><br>
+      <strong>BBFS: 378351 | CB: 3 & 5 | ANGKA MAIN:3785 | SHIO: TIKUS</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 19-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 19 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 19 Maret 2026"
+         src="https://imgur.com/skRCVFH.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 19 MAR 2026</strong><br>
+      <strong>BBFS: 264397 | CB: 7 & 4 | ANGKA MAIN:2643 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 19-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 19 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 19 Maret 2026"
+         src="https://imgur.com/LeTX6zt.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 19 MAR 2026</strong><br>
+      <strong>BBFS: 414089 | CB: 4 & 1 | ANGKA MAIN:4109 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 19-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 19 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 19 Maret 2026"
+         src="https://imgur.com/duVBiU5.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 19 MAR 2026</strong><br>
+      <strong>BBFS: 501671 | CB: 5 & 1 | ANGKA MAIN:5016 | SHIO: MONYET</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 19-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-18">18 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 18 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 18 Maret 2026"
+         src="https://imgur.com/8gUms40.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 18 MAR 2026</strong><br>
+      <strong>BBFS: 293076 | CB: 6 & 0 | ANGKA MAIN:26501 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 18-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 18 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 18 Maret 2026"
+         src="https://imgur.com/hXUK4dL.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 18 MAR 2026</strong><br>
+      <strong>BBFS: 437549 | CB: 4 & 1 | ANGKA MAIN:4375 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 18-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 18 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 18 Maret 2026"
+         src="https://imgur.com/miHHpRv.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 18 MAR 2026</strong><br>
+      <strong>BBFS: 791028 | CB: 6 & 0 | ANGKA MAIN:7910 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 18-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-17">17 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 17 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 17 Maret 2026"
+         src="https://imgur.com/G9ddii5.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 17 MAR 2026</strong><br>
+      <strong>BBFS: 138619 | CB: 9 & 1 | ANGKA MAIN:1386 | SHIO: KELINCI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 17-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 17 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 17 Maret 2026"
+         src="https://imgur.com/Hu50ts1.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 17 MAR 2026</strong><br>
+      <strong>BBFS: 320978 | CB: 3 & 7 | ANGKA MAIN:3209 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 17-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 17 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 17 Maret 2026"
+         src="https://imgur.com/DL06lhT.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 17 MAR 2026</strong><br>
+      <strong>BBFS: 048974 | CB: 4 & 9 | ANGKA MAIN:0489 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 17-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+ <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-16">16 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 16 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 16 Maret 2026"
+         src="https://imgur.com/8dxLw7r.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 16 MAR 2026</strong><br>
+      <strong>BBFS: 603854 | CB: 6 & 0 | ANGKA MAIN:6038 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 16-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 16 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 16 Maret 2026"
+         src="https://imgur.com/xIRwo8c.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 16 MAR 2026</strong><br>
+      <strong>BBFS: 824817 | CB: 8 & 7 | ANGKA MAIN:8241 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 16-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 16 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 16 Maret 2026"
+         src="https://imgur.com/O3vQqqK.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 16 MAR 2026</strong><br>
+      <strong>BBFS: 794931 | CB: 9 & 3 | ANGKA MAIN:7943 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 16-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 16 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 16 Maret 2026"
+         src="https://imgur.com/prOojVN.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 16 MAR 2026</strong><br>
+      <strong>BBFS: 402621 | CB: 4 & 2 | ANGKA MAIN:4026 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 16-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+ 
+
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-15">15 MARET 2026</time></div>
+   <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 15 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 15 Maret 2026"
+         src="https://imgur.com/j4xEnzd.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 15 MAR 2026</strong><br>
+      <strong>BBFS: 818539 | CB: 8 & 1 | ANGKA MAIN:8153 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 15-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 15 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 15 Maret 2026"
+         src="https://imgur.com/I6FtDKd.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 15 MAR 2026</strong><br>
+      <strong>BBFS: 090284 | CB: 6 & 5 | ANGKA MAIN:2650 | SHIO: ANJING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 15-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 15 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 15 Maret 2026"
+         src="https://imgur.com/3hcGG4I.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 15 MAR 2026</strong><br>
+      <strong>BBFS: 723079 | CB: 7 & 9 | ANGKA MAIN:7230 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPROE Tanggal 15-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 15 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 15 Maret 2026"
+         src="https://imgur.com/7NuCqYS.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 15 MAR 2026</strong><br>
+      <strong>BBFS: 455670 | CB: 4 & 5 | ANGKA MAIN:4567 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 15-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-14">14 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 14 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 14 Maret 2026"
+         src="https://imgur.com/neTqVRc.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 14 MAR 2026</strong><br>
+      <strong>BBFS: 859209 | CB: 9 & 2 | ANGKA MAIN:8592 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 14-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 14 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 14 Maret 2026"
+         src="https://imgur.com/ZVgLmGO.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 14 MAR 2026</strong><br>
+      <strong>BBFS: 9451287 | CB: 9 & 7 | ANGKA MAIN:9451 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 14-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 14 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 14 Maret 2026"
+         src="https://imgur.com/2YwqoFB.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 14 MAR 2026</strong><br>
+      <strong>BBFS: 354657 | CB: 9 & 7 | ANGKA MAIN:3546 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 14-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 14 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 14 Maret 2026"
+         src="https://imgur.com/XgaRRpl.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 14 MAR 2026</strong><br>
+      <strong>BBFS: 072801 | CB: 7 & 0 | ANGKA MAIN:0728 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 14-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-13">13 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 13 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 13 Maret 2026"
+         src="https://imgur.com/WTmsWzc.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 13 MAR 2026</strong><br>
+      <strong>BBFS: 241765 | CB: 4 & 2 | ANGKA MAIN:2417 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 13-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 13 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 13 Maret 2026"
+         src="https://imgur.com/y9QyZRt.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 13 MAR 2026</strong><br>
+      <strong>BBFS: 089831 | CB: 3 & 8 | ANGKA MAIN:9831 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 13-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 13 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 13 Maret 2026"
+         src="https://imgur.com/x7clUee.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 13 MAR 2026</strong><br>
+      <strong>BBFS: 746965 | CB: 7 & 6 | ANGKA MAIN:7469 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 13-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+  
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-12">12 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 12 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 12 Maret 2026"
+         src="https://imgur.com/iYXsmkL.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 12 MAR 2026</strong><br>
+      <strong>BBFS: 173687 | CB: 1 & 3 | ANGKA MAIN:1736 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 12-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 12 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 12 Maret 2026"
+         src="https://imgur.com/iJGu8pL.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 12 MAR 2026</strong><br>
+      <strong>BBFS: 991634 | CB: 9 & 1 | ANGKA MAIN:9163 | SHIO: NAGA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 12-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 12 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 12 Maret 2026"
+         src="https://imgur.com/izFOrri.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 12 MAR 2026</strong><br>
+      <strong>BBFS: 456962 | CB: 6 & 9 | ANGKA MAIN:4569 | SHIO: KERBAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 12-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 12 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 12 Maret 2026"
+         src="https://imgur.com/3cT0E71.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 12 MAR 2026</strong><br>
+      <strong>BBFS: 270348 | CB: 7 & 4 | ANGKA MAIN:2703 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 12-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+
+  
+  <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-11">11 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 11 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 11 Maret 2026"
+         src="https://imgur.com/iYXsmkL.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 11 MAR 2026</strong><br>
+      <strong>BBFS: 819065 | CB: 0 & 9 | ANGKA MAIN:8190 | SHIO: AYAM</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 11-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 11 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 11 Maret 2026"
+         src="https://imgur.com/DRuhami.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 11 MAR 2026</strong><br>
+      <strong>BBFS: 081632 | CB: 8 & 0 | ANGKA MAIN:0816 | SHIO: BABI</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 11-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SINGAPORE - 11 MAR</div>
+    <img alt="Prediksi Jitu Togel SINGAPORE Direktur4D 11 Maret 2026"
+         src="https://imgur.com/CQYrTDY.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SINGAPORE 11 MAR 2026</strong><br>
+      <strong>BBFS: 238246 | CB: 6 & 2 | ANGKA MAIN:2384 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SINGAPORE Tanggal 11-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 11 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 11 Maret 2026"
+         src="https://imgur.com/4eAt9VW.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 11 MAR 2026</strong><br>
+      <strong>BBFS: 756815 | CB: 5 & 1 | ANGKA MAIN:7568 | SHIO: KAMBING</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 11-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+  
+    <div class="tanggal-header">🔥 UPDATE: <time datetime="2026-03-10">10 MARET 2026</time></div>
+    <div class="grid-toto">
+
+  <div class="card-toto">
+    <div class="card-label">TOTO MACAU - 10 MAR</div>
+    <img alt="Prediksi Jitu Togel TOTO MACAU Direktur4D 10 Maret 2026"
+         src="https://imgur.com/fkseoq6.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI TOTO MACAU 10 MAR 2026</strong><br>
+      <strong>BBFS: 029154 | CB: 9 & 2 | ANGKA MAIN:9052 | SHIO: HARIMAU</strong><br>
+       Note: Berikut Adalah Hasil Prediksi TOTO MACAU Tanggal 10-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">SYDNEY - 10 MAR</div>
+    <img alt="Prediksi Jitu Togel SYDNEY Direktur4D 10 Maret 2026"
+         src="https://imgur.com/Kd4JqIn.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI SYDNEY 10 MAR 2026</strong><br>
+      <strong>BBFS: 810265 | CB: 6 & 5 | ANGKA MAIN:2650 | SHIO: ULAR</strong><br>
+       Note: Berikut Adalah Hasil Prediksi SYDNEY Tanggal 10-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+  <div class="card-toto">
+    <div class="card-label">HONGKONG - 10 MAR</div>
+    <img alt="Prediksi Jitu Togel HONGKONG Direktur4D 10 Maret 2026"
+         src="https://imgur.com/QBc9nS9.png" loading="lazy" />
+    <div class="data-prediksi" style="text-align: center; padding: 10px; color: #ffd700; font-size: 12px;">
+      <strong>PREDIKSI HONGKONG 10 MAR 2026</strong><br>
+      <strong>BBFS: 108636 | CB: 6 & 0 | ANGKA MAIN:1086 | SHIO: KUDA</strong><br>
+       Note: Berikut Adalah Hasil Prediksi HONGKONG Tanggal 10-03-2026 Yang Di Racik Dari Team Ahli Direktur4D Untuk Membantu Anda Dalam Memilih Angka Main. Salam JP Paus & Tetap UPS!
+    </div>
+  </div>
+
+</div>
+<script>
+  function moveNav(px) { document.getElementById('capsuleNav').scrollLeft += px; }
+  function tabKe(id, btn) {
+    document.querySelectorAll('.tab-isi').forEach(t => t.style.display = 'none');
+    document.getElementById(id).style.display = 'block';
+    document.querySelectorAll('.btn-bulan').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+  function updateClock() {
+    const n = new Date();
+    document.getElementById('clock').textContent = 
+      String(n.getHours()).padStart(2,'0') + ":" + 
+      String(n.getMinutes()).padStart(2,'0') + ":" + 
+      String(n.getSeconds()).padStart(2,'0');
+  }
+  setInterval(updateClock, 1000); updateClock();
+
+  
+  const imlekImgs = ['https://imgur.com/4ZawtKw.png', 'https://imgur.com/eu8LBOC.png', 'https://imgur.com/irJG9tU.png', 'https://imgur.com/TcVkWVd.png'];
+  function fall() {
+    const img = document.createElement('img');
+    img.src = imlekImgs[Math.floor(Math.random()*imlekImgs.length)];
+    
+img.style.cssText = `position:fixed; top:-50px; left:${Math.random()*100}vw; width:35px; z-index:1; pointer-events:none; animation:f 5s linear;`;
+    document.body.appendChild(img);
+    setTimeout(() => img.remove(), 5000);
+  }
+  // setInterval(fall, 600);
+  
+window.addEventListener('load', () => {
+    const nav = document.getElementById('capsuleNav');
+    const activeBtn = document.querySelector('.btn-bulan.active');
+    if (activeBtn) {
+        
+        const offset = activeBtn.offsetLeft - (nav.offsetWidth / 2) + (activeBtn.offsetWidth / 2);
+        nav.scrollLeft = offset;
+    }
+});
+</script>
+  </div> </div> </div> <div class="livechat-float">
+    <a href="https://direct.lc.chat/15115221/" target="_blank">
+        <img src="https://i.imgur.com/pUJGeZj.gif" alt="Livechat">
+    </a>
+</div>
+
+<footer class="footer-custom">
+    <div class="footer-overlay"></div>
+    <div class="footer-content">
+        <h2 style="color: #ffcc00; font-size: 18px; margin-bottom: 10px; font-family: 'Arial Black', sans-serif;">Pusat Prediksi Terakurat - DIREKTUR4D</h2>
+        
+        <p style="color: #ccc; font-size: 14px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+            Selamat datang di <strong style="color: #ffcc00;">DIREKTUR4D</strong>, platform resmi yang menyajikan update harian untuk berbagai pasaran populer seperti Macau, Sydney, Singapore, dan Hongkong. Tim kami melakukan analisis mendalam setiap harinya untuk memberikan hasil prediksi jitu yang membantu Anda menentukan angka main.
+        </p>
+        
+        <p style="color: #ccc; font-size: 14px; line-height: 1.6; max-width: 800px; margin: 10px auto 0;">
+            Dapatkan update prediksi terbaru dan tercepat hanya di link resmi <strong style="color: #ffcc00;">Direktur4D</strong>. Semua data bersifat informatif untuk memberikan referensi terbaik bagi para pengunjung setia kami setiap harinya.
+        </p>
+
+        <div class="copyright" style="margin-top: 25px; color: #fff; font-weight: bold; font-size: 12px;">
+            &copy; 2026 DIREKTUR4D | Pusat Prediksi Paling Jitu Di Indonesia
+ </div>
+    </div>
+</footer>
+
+<style>
+
+.livechat-float {
+    position: fixed !important;
+    bottom: 20px;
+    right: 25px; 
+    z-index: 999999 !important;
+    width: 110px; 
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.livechat-float img {
+    width: 100%; 
+    height: auto;
+    filter: drop-shadow(0px 0px 15px rgba(255, 0, 0, 0.8));
+}
+
+
+.footer-custom {
+    margin-top: 0px;
+    background: url('https://imgur.com/k1vXLeL.jpg') no-repeat center center;
+    background-size: cover;
+    border-top: 2px solid #ffcc00;
+    width: 100vw; 
+    margin-left: calc(-50vw + 50%); 
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+    padding: 60px 20px;
+    text-align: center;
+    color: #fff;
+    clear: both;
+}
+.footer-overlay {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1;
+}
+.footer-content {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+    z-index: 2;
+    font-size: 13px;
+    line-height: 1.8;
+}
+.footer-content h2 { color: #ffcc00; font-size: 20px; margin-bottom: 10px; }
+.copyright { margin-top: 25px; color: #aaa; font-size: 11px; }
+
+
+h1.rainbow-text {
+    font-size: 24px;
+    font-weight: 900;
+    background: linear-gradient(to right, #FFD700, #FF0000, #FFD700);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: kilauEmas 3s linear infinite;
+}
+@keyframes kilauEmas { to { background-position: 200% center; } }
+@keyframes f { to { transform: translateY(110vh) rotate(360deg); } }
+
+@media (max-width: 768px) {
+    .livechat-float { width: 85px; bottom: 15px; right: 15px; }
+    h1.rainbow-text { font-size: 20px; }
+}
+  .lightning-bolt { 
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
+    pointer-events: none; z-index: 9998; background: rgba(255, 255, 255, 0); 
+    animation: lightning-flash 6s infinite; 
+  }
+  .bolt-line { 
+    position: fixed; top: 0; left: 50%; width: 2px; height: 100%; 
+    background: #fff; opacity: 0; z-index: 9999; 
+    box-shadow: 0 0 20px #fff, 0 0 40px #00f; 
+    animation: bolt-strike 6s infinite; 
+  }
+  @keyframes lightning-flash { 
+    0%, 94%, 100% { background: rgba(255, 255, 255, 0); } 
+    95% { background: rgba(255, 255, 255, 0.4); } 
+    96% { background: rgba(255, 255, 255, 0); } 
+    97% { background: rgba(135, 206, 250, 0.6); } 
+    98% { background: rgba(255, 255, 255, 0); } 
+  }
+  @keyframes bolt-strike { 
+    0%, 96%, 100% { opacity: 0; transform: skewX(0deg); } 
+    97% { opacity: 1; transform: skewX(-20deg) translateX(100px); } 
+    98% { opacity: 0; } 
+  }
+</style>
+</body>
+</html>
